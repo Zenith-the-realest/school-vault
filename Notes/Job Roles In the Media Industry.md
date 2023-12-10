@@ -7,6 +7,3 @@ Tags:[[Job Roles]]
 Usually, lots of different skills are required to create a media project, ranging from a **newspaper**, or a **high budget film**. There are three types of job roles in the media industry:
 
 ![[Job Role Type Diagram|center|1000]]
-
-
-# **References**
