@@ -15,7 +15,7 @@ A graphic designer plans and creates **visual images / graphics** for a project.
 
 # **References**
 
-[[Job Roles In the Media Industry|Job Roles in the Media Industry - Creative Roles]]
+[[Creative Roles]]
 [[Production Phases]]
 
 

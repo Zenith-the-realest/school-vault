@@ -10,5 +10,5 @@ A photographer is responsible for taking **still images** required for a media p
 
 # **References**
 
-[[Job Roles In the Media Industry|Job Roles in the Media Industry - Creative Roles]]
+[[]]
 [[Production Phases]]
