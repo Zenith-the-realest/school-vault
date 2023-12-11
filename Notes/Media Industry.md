@@ -13,4 +13,6 @@ There are two categories of media in the Media Industry: [[Traditional Media]] a
 
 ## How do people create media?
 
-There are three different types of [[Job Roles In the Media Industry]],
+There are three different types of [[Job Roles In the Media Industry]], **Creative, Technical, and Senior.**
+
+- Creative Job Roles
