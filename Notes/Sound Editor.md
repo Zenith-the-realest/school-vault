@@ -12,6 +12,6 @@ A sound editor will **modify** sound clips so they are the **required length,** 
 
 # **References**
 
-[[Job Roles In the Media Industry|Job Roles In the Media Industry - Technical Roles]]
+[[Technical Roles]]
 [[Production Phases]]
 [[Audio Technician]]

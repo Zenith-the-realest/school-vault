@@ -10,6 +10,6 @@ Video editors take **recorded images**, and edits them to remove **unnecessary**
 
 # **References**
 
-[[Job Roles In the Media Industry|Job Roles In the Media Industry - Technical Roles]]
+[[Technical Roles]]
 [[Production Phases]]
 [[Sound Editor]]

@@ -12,6 +12,6 @@ A web developer works with a **web designer**, but the developer focuses on the 
 
 # **References**
 
-[[Job Roles In the Media Industry|Job Roles In the Media Industry - Technical Job Roles]]
+[[Technical Roles]]
 [[Production Phases]]
 [[Web Designer]]

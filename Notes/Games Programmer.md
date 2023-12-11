@@ -12,5 +12,5 @@ Game programmers (also called game developers) are responsible for creating **ga
 
 # **References**
 
-[[Job Roles In the Media Industry|Job Roles In the Media Industry - Technical Roles]]
+[[Technical Roles]]
 [[Production Phases]]
