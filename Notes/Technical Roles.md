@@ -1,6 +1,6 @@
 202312112043
 Status: #idea
-Tags:
+Tags:[[Media Industry]],[[Job Roles]]
 
 # Technical Roles
 
