@@ -6,3 +6,6 @@ Status: #MOC
 
 The media industry comprises **all companies** included in the *development, production, and marketing* of media contents for **entertainment purposes.**
 
+There are two categories of media in the Media Industry: [[Traditional Media]] and [[New Media]] respectively.
+
+- Traditional Media is comprised of 
