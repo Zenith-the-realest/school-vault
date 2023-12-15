@@ -12,4 +12,3 @@ Camera operators film **moving images** for a media project – for example, con
 # **References**
 
 [[Technical Roles]]
-[[Production Phases]]

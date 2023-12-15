@@ -10,4 +10,3 @@ A copy writer writes content with the aim to *advertise* or *promote* a business
 # **References**
 
 [[Creative Roles]]
-[[Production Phases]]

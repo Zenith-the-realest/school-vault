@@ -11,4 +11,3 @@ A script writer is responsible for producing **scripts** for *films, television 
 # **References**
 
 [[Creative Roles]]
-[[Production Phases]]

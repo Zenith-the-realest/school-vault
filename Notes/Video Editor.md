@@ -11,5 +11,4 @@ Video editors take **recorded images**, and edits them to remove **unnecessary**
 # **References**
 
 [[Technical Roles]]
-[[Production Phases]]
 [[Sound Editor]]

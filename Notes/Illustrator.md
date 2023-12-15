@@ -11,4 +11,3 @@ An illustrator (also known as a *graphic artist*), creates drawings. This could 
 # **References**
 
 [[Creative Roles]]
-[[Production Phases]]

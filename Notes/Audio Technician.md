@@ -11,4 +11,4 @@ An audio technician **records sounds,** or *support* someone who records the sou
 # **References**
 
 [[Job Roles In the Media Industry|Job Roles In the Media Industry - Technical Roles]]
-[[Production Phases]]
+[[Sound Editor]]

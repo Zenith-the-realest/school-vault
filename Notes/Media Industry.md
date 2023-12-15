@@ -15,4 +15,13 @@ There are two categories of media in the Media Industry: [[Traditional Media]] a
 
 There are three different types of [[Job Roles In the Media Industry]], **Creative, Technical, and Senior.**
 
-- Creative Job Roles – 
+- [[Creative Roles]],[[Technical Roles]],[[Senior Roles]].
+	- Creative Roles have varying [[Production Phases|production phases]] in which they work, as well as Technical Roles. However, Senior Roles oversee **all production phases.**
+
+## What are purposes of a media product?
+
+[[The Purpose Of A Media Product|The purpose of a media product]] is what it is designed to do; for example, **advertising and promoting, educating, or entertaining.**
+
+### How is this purpose conveyed?
+
+These 
