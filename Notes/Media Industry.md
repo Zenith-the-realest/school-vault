@@ -24,4 +24,9 @@ There are three different types of [[Job Roles In the Media Industry]], **Creati
 
 ### How is this purpose conveyed?
 
-These 
+There are several categories in conveying the purpose of a media product, found in the [[The Style, Content and Layout of a Product|style, content and layout of a product.]]
+
+- Examples are:
+	- Colour, Language, Positioning, and Audio Representation.
+
+## What is a client
