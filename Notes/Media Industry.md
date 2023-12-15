@@ -31,4 +31,8 @@ There are several categories in conveying the purpose of a media product, found 
 
 ## What is a client?
 
-A client is a person / organisation / business that requests someone to **create something on their behalf.** Clients will have a list of [[Client Requirements|requirements]] they wish the designer (for example) to fulfill.
+A client is a person / organisation / business that requests someone to **create something on their behalf.** Clients will have a list of [[Client Requirements|requirements]] they wish the designer (for example) to fulfil.
+
+### How do clients communicate their requirements?
+
+Clients [[Communicating Client Briefs|communicate their briefs]] in a number of ways, such as **written** or **in a meeting.** These briefs need to be **[[Interpreting Client Briefs|interpreted]]** to find **the type of product, purpose, audience, etc.**
