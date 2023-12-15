@@ -29,4 +29,6 @@ There are several categories in conveying the purpose of a media product, found 
 - Examples are:
 	- Colour, Language, Positioning, and Audio Representation.
 
-## What is a client
+## What is a client?
+
+A client is a person / organisation / business that requests someone to **create something on their behalf.** Clients will have a list of [[Client Requirements|requirements]] they wish the designer (for example) to fulfill.
