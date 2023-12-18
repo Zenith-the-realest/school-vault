@@ -26,3 +26,8 @@ This can be done via:
 - The information may **not be accurate.**
 
 # **References**
+
+[[Client Requirements]]
+[[The Purpose Of A Media Product]]
+[[Media Industry Products]]
+[[Research]]
