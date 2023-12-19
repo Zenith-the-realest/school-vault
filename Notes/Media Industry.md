@@ -8,6 +8,8 @@ The media industry comprises **all companies** included in the *development, pro
 
 There are two categories of media in the Media Industry: [[Traditional Media]] and [[New Media]] respectively.
 
+### What [[Media Industry Products|products]] are part of the Media Industry?
+
 - Traditional Media is comprised of [[Radio]],[[Film]],[[Television]], and [[Print Publishing]].
 - New Media is comprised of [[Computer Games]],[[The Internet]],[[Digital Publishing]] and [[Interactive Media]].
 
