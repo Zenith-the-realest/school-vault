@@ -4,7 +4,7 @@ Tags:[[Media Industry]],[[Client-Creator Relationship]]
 
 # Research
 
-Media teams will' need to **carry out research** as part of development of a product. Research would be needed to:
+Media teams will need to **carry out research** as part of development of a product. Research would be needed to:
 
 - Gather information / data for content of a media product – for example, information for a media product.
 - Find out what people think of a media product in development / a concept of a new media product – feedback can then be used to carry out improvements.
