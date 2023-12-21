@@ -7,7 +7,7 @@ Tags:[[Media Industry]]
 ## What media sectors are there?
 
 The media industry is split into two sectors; **Traditional Media** and **New Media**.
-The **traditional media** sector consists of **Film, Television, Radio, and Print Publishing,** whereas the **new media sector** consists of **Computer Games, Interactive Media, (the) Internet, and Digital Publishing.**
+The **traditional media** sector consists of **Film, Television, Radio, and Print Publishing,** whereas the **new media sector** consists of **Computer Games, Interactive Media, (the) Internet, and Digital Publishing.** 28 28 28
 
 # **References**
 
