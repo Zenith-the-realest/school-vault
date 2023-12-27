@@ -1,5 +1,5 @@
 {{date:YYYYMMDD}}{{time:HHmm}}
-Status: #idea
+Subject: #idea
 Tags:
 
 # {{title}}

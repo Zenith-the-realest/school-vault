@@ -1,5 +1,5 @@
 202312091325
-Status: #idea
+Subject: #iMedia
 Tags:[[Client-Creator Relationship]],[[Job Roles]]
 
 # Communicating Client Briefs

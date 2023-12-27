@@ -1,5 +1,5 @@
 202312081717
-Status: #idea
+Subject: #iMedia
 Tags:[[Job Roles]],[[Media Industry]]
 
 # Creative Director

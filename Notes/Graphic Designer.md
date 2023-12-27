@@ -1,5 +1,5 @@
 202312062110
-Status: #idea
+Subject: #iMedia
 Tags: [[Job Roles]],[[Media Industry]]
 
 # Graphic Designer

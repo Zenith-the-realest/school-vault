@@ -1,5 +1,5 @@
 202312081703
-Status: #idea
+Subject: #iMedia
 Tags:[[Job Roles]],[[Media Industry]]
 
 # Campaign Manager

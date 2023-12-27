@@ -1,5 +1,5 @@
 202312061856
-Status: #idea
+Subject: #iMedia
 Tags: [[Media Industry]]
 
 # Digital Publishing

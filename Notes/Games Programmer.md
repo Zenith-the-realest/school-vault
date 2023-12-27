@@ -1,5 +1,5 @@
 202312072151
-Status: #idea
+Subject: #iMedia
 Tags:[[Job Roles]],[[Media Industry]]
 
 # Games Programmer

@@ -1,5 +1,5 @@
 202312072235
-Status: #idea
+Subject: #iMedia
 Tags: [[Job Roles]],[[Media Industry]]
 
 # Audio Technician

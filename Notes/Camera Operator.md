@@ -1,5 +1,5 @@
 202312072150
-Status: #idea
+Subject: #iMedia
 Tags:[[Job Roles]],[[Media Industry]]
 
 # Camera Operator

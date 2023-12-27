@@ -1,5 +1,5 @@
 202312061848
-Status: #idea
+Subject: #iMedia
 Tags:[[Media Industry]]
 
 # Interactive Media

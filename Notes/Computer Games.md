@@ -1,5 +1,5 @@
 202312052317
-Status: #idea
+Subject: #iMedia
 Tags:[[Media Industry]]
 
 # Computer Games

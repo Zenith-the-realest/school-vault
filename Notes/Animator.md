@@ -1,5 +1,5 @@
 202312062102
-Status: #idea
+Subject: #iMedia
 Tags:[[Job Roles]],[[Media Industry]]
 
 # Animator

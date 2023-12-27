@@ -1,5 +1,5 @@
 202312062108
-Status: #idea
+Subject: #iMedia
 Tags: [[Job Roles]]
 
 # Copy Writer
