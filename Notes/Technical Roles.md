@@ -1,5 +1,5 @@
 202312112043
-Status: #idea
+Subject: #iMedia 
 Tags:[[Media Industry]],[[Job Roles]]
 
 # Technical Roles

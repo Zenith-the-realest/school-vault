@@ -1,5 +1,5 @@
 202312091850
-Status: #idea
+Subject: #iMedia 
 Tags:[[Media Industry]],[[Client-Creator Relationship]]
 
 # Research

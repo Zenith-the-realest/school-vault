@@ -1,5 +1,5 @@
 202312052126
-Status: #idea
+Subject: #iMedia 
 Tags: [[Media Industry]]
 
 # Television

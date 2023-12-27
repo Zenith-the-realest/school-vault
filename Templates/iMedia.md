@@ -1,5 +1,5 @@
 {{date:YYYYMMDD}}{{time:HHmm}}
-Subject: #idea
+Subject: #iMedia
 Tags:
 
 # {{title}}

@@ -1,5 +1,5 @@
 202312082112
-Status: #idea
+Subject: #iMedia 
 Tags:[[Media Industry]]
 
 # The Purpose Of A Media Product

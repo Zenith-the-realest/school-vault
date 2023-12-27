@@ -1,5 +1,5 @@
 202312052129
-Status: #idea
+Subject: #iMedia 
 Tags: [[Media Industry]]
 
 # Radio

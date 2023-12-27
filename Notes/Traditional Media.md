@@ -1,5 +1,5 @@
 202312052328
-Status: #idea
+Subject: #iMedia 
 Tags: [[Media Industry]]
 
 # Traditional Media

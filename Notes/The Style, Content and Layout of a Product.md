@@ -1,5 +1,5 @@
 202312082212
-Status: #idea
+Subject: #iMedia 
 Tags:[[Media Industry]]
 
 # The Style, Content and Layout of a Product

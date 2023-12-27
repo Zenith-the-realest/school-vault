@@ -1,5 +1,5 @@
 202312072148
-Status: #idea
+Subject: #iMedia 
 Tags:[[Job Roles]],[[Media Industry]]
 
 # Web Designer
