@@ -1,6 +1,6 @@
 202312112041
 Subject: #iMedia
-Tags:[[Media Industry]],[[Job Roles]]
+Tags:[[Job Roles]]
 
 # Creative  Roles
 
