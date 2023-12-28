@@ -9,9 +9,9 @@
 **28/12/23:**
 - [x] BIOLOGY:
 	- [x] IGCSE paper
-- [ ] HISTORY:
+- [x] HISTORY:
 	- [x] Plan out exam question
-	- [ ] Do exam question
+	- [x] Do exam question
 - [x] MATHS:
 	- [x] Do final pinpoint booklet
 
