@@ -14,5 +14,4 @@
 	- [ ] Do exam question
 - [x] MATHS:
 	- [x] Do final pinpoint booklet
-- [ ] REAL: balls
 
