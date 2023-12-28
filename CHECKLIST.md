@@ -12,5 +12,5 @@
 - [ ] HISTORY:
 	- [ ] Plan out exam question
 	- [ ] Do exam question
-- [ ] MATHS:
-	- [ ] Do another pinpoint booklet
+- [x] MATHS:
+	- [x] Do another pinpoint booklet
