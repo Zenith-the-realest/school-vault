@@ -1,6 +1,6 @@
 202312112049
 Subject: #iMedia 
-Tags:[[Media Industry]],[[Job Roles]]
+Tags:[[Job Roles]]
 
 # Senior Roles
 

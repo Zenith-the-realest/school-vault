@@ -1,6 +1,6 @@
 202312112043
 Subject: #iMedia 
-Tags:[[Media Industry]],[[Job Roles]]
+Tags:[[Job Roles]]
 
 # Technical Roles
 
