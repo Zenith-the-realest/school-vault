@@ -7,8 +7,8 @@
 
 
 28/12/23:
-- [ ] BIOLOGY:
-	- [ ] IGCSE paper
+- [x] BIOLOGY:
+	- [x] IGCSE paper
 - [ ] HISTORY:
 	- [ ] Plan out exam question
 	- [ ] Do exam question
