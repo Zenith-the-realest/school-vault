@@ -6,11 +6,13 @@
 	- [x] One pinpoint booklet
 
 
-28/12/23:
+**28/12/23:**
 - [x] BIOLOGY:
 	- [x] IGCSE paper
 - [ ] HISTORY:
-	- [ ] Plan out exam question
+	- [x] Plan out exam question
 	- [ ] Do exam question
 - [x] MATHS:
-	- [x] Do another pinpoint booklet
+	- [x] Do final pinpoint booklet
+- [x] REAL:
+
