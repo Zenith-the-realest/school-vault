@@ -15,3 +15,9 @@
 - [x] MATHS:
 	- [x] Do final pinpoint booklet
 
+**29/12/23:**
+
+- [ ] CHEMISTRY:
+	- [ ] Do chemistry sample paper
+- [ ] PHYSICS:
+	- [ ] Do physics past paper
