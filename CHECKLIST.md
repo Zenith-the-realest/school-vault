@@ -17,7 +17,7 @@
 
 **29/12/23:**
 
-- [ ] CHEMISTRY:
-	- [ ] Do chemistry sample paper
-- [ ] PHYSICS:
-	- [ ] Do physics past paper
+- [x] CHEMISTRY:
+	- [x] Do chemistry sample paper
+- [x] PHYSICS:
+	- [x] Do physics past paper
