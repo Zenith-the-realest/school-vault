@@ -4,7 +4,7 @@ Tags:[[Job Roles]]
 
 # Creative  Roles
 
-Creative  Roles involve jobs that:
+Creative Roles involve jobs that:
 
 - involve people that do jobs that use **creativity and imagination.**
 

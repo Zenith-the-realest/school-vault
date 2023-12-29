@@ -21,3 +21,7 @@
 	- [x] Do chemistry sample paper
 - [x] PHYSICS:
 	- [x] Do physics past paper
+- [ ] ENGLISH:
+	- [ ] Make notes on:
+		- [ ] Poems:
+			- [ ] Ozymandias
