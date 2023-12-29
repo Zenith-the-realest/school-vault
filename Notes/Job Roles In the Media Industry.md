@@ -9,3 +9,7 @@ Usually, lots of different skills are required to create a media project, rangin
 ![[Job Role Type Diagram|center|1000]]
 
 ## References:
+
+[[Creative Roles]]
+[[Technical Roles]]
+[[Senior Roles]]
