@@ -12,6 +12,10 @@ Percy Shelley was a **Romantic poet**, who was *vegetarian, anti-monarchy, an at
 
 During the Age of Enlightenment (an age driven by a mindset that favoured **science and reason** over **religion**), writers (including Shelley) would protest the present / future of mankind.
 - They did this by using **old literary conventions** and repurposing them.
-These poems rejected institutions of power
+These poems rejected institutions of power, and the poetry was used to spread **messages and political ideas.**
+
+## Historical influence in Ozymandias:
+
+The first reference is in the name of the poem itself: “Ozymandias” was the throne name of **Rameses II**
 
 # **References**
