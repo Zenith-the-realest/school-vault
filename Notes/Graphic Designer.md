@@ -16,4 +16,3 @@ A graphic designer plans and creates **visual images / graphics** for a project.
 # **References**
 
 [[Creative Roles]]
-[[
