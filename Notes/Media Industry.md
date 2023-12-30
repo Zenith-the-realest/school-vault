@@ -1,5 +1,5 @@
 202312061841
-Status: #iMediaMOC 
+Status: #MOC
 # Media Industry
 
 ## What is the Media Industry?

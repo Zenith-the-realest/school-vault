@@ -16,3 +16,6 @@ There is **primary research** and **secondary research**.
 # **References**
 
 [[Research Data]]
+[[Primary Research]]
+[[Secondary Research]]
+
