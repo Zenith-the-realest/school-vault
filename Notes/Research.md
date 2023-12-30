@@ -11,7 +11,7 @@ Media teams will need to **carry out research** as part of development of a prod
 
 ## What are the types of research?
 
-There is **primary research** and **secondary research**.
+There is **[[primary research]]** and **[[secondary research]]**.
 
 # **References**
 

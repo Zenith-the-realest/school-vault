@@ -12,5 +12,3 @@ An animator is responsible for creating **moving images**, and will commonly fol
 
 [[Creative Roles]]
 
-# Real
-
