@@ -9,7 +9,7 @@ Tags: [[Ozymandias]], [[Poetry - Power and Conflict]]
 The poem is written from the *first person perspective*, but the speaker is never revealed / identified. He is an **omniscient** speaker.
  - The pronoun “I” is only used once, showing that the perspective doesn’t actually matter.
 ## Opening:
-The poem begins with “**I met a traveller** from an antique land”
+The poem begins with “**I met a traveller** from an antique land”, showing that the perspective is detached from Shelley himself, in an attempt to remove himself from
 
 
 
