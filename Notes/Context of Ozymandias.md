@@ -16,15 +16,15 @@ These poems rejected institutions of power, and the poetry was used to spread **
 
 ## Historical influence in Ozymandias:
 
-### Ramesses II:
+### <u>Ramesses II</u>:
 
 The first reference is in the name of the poem itself: “Ozymandias” was the throne name of **Ramesses II**, an Egyptian pharaoh from 1279-1239 BC.
 
 Shelley made his statue the topic of his poem, as it was recently discovered during his time of writing.
 
-### King George III:
+### <u>King George III</u>:
 
 It is arguable that George III had influence over the poem, as he has reigned longer than any king, but (in Shelley and many others’ opinions) had overstayed. He engaged in many military conflicts and was remembered to be oppressive and tyrannical – similar to Ozymandias.
 # **References**
 
-[[What is Ozymandias?]]
+# [[What is Ozymandias?]]
