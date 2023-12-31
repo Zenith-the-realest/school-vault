@@ -1,6 +1,6 @@
 202312311825
 Subject: #English
-Tags:
+Tags: [[Ozymandias]], [[Poetry - Power and Conflict]]
 
 # Analysis of Ozymandias
 
