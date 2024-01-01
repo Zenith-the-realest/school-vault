@@ -15,6 +15,10 @@ The poem was intended to be a **prologue** to **The Recluse**, the latter design
 ## What does The Prelude explore?
 
 The Prelude mainly explores the conflict between humans and nature, or **man vs nature**, investigated through a young man’s attempt to *control nature*, via his rowing boat.
+- The poem is written in **iambic pentameter**, utilising its constant rhythm which contrasts the revelatory events which occur to the young man.
+
+The poem is based on Wordsworth’s childhood, bringing a tone of **realism** to the piece, showing it was a **formative event** in his life.
+- The setting of the boat could metaphorically relate to the **spi**
 
 # **References**
 
