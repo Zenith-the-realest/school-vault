@@ -17,7 +17,7 @@ The Prelude was written as an **epic poem** – a lengthy, narrative poem that f
 
 It is possible that Wordsworth intended the adventure not to be physical, but rather focused on his **spiritual growth**, and journey of becoming a poet, including his realisation of nature’s power and his own insignificance.
 
-The entire poem is a **single stanza**, emphasising the *overwhelming power* of nature.
+The entire poem is a **single stanza**, emphasising the *overwhelming power* of nature. The lack of breaks and pauses makes the reader feel **breathless**, also emphasising this idea.
 
 # **References**
 
