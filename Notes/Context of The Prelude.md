@@ -18,7 +18,7 @@ The Prelude mainly explores the conflict between humans and nature, or **man vs 
 - The poem is written in **iambic pentameter**, utilising its constant rhythm which contrasts the revelatory events which occur to the young man.
 
 The poem is based on Wordsworth’s childhood, bringing a tone of **realism** to the piece, showing it was a **formative event** in his life.
-- The setting of the boat could metaphorically relate to the **spi**
+- The setting of the boat could metaphorically relate to the **spiritual journey** the child takes, introducing a *theme* of reflection.
 
 # **References**
 
