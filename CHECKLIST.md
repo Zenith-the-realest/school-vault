@@ -21,7 +21,11 @@
 	- [x] Do chemistry sample paper
 - [x] PHYSICS:
 	- [x] Do physics past paper
+
+**1/1/24:**
+
 - [ ] ENGLISH:
-	- [ ] Make notes on:
-		- [ ] Poems:
-			- [ ] Ozymandias
+	- [ ] Notes:
+		- [ ] Ozymandias
+		- [ ] The Prelude
+		- [ ] London

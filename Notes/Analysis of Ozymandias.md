@@ -21,6 +21,9 @@ The poem uses a sonnet in conjunction with the irregular rhyme scheme, showing t
 
 Shelley uses alliteration to show the vast power of the desert, while also belittling the power of man.
 - The statue can be interpreted as a **representation of human power – a king’s attempt to evade death and be cemented in history.**
-	- T
+	- However, it lies broken as a “*colossal wreck*.”
+Shelley describes the desert as “boundless and bare”, “lone and level”, using alliteration to convey the vast power of nature.
 
 # **References**
+
+[[Context of Ozymandias]]
