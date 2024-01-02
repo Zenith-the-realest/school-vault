@@ -22,10 +22,9 @@ FRIDAY **29/12/23:**
 - [x] PHYSICS:
 	- [x] Do physics past paper
 
-MONDAY **1/1/24:**
+TUESDAY **2/1/24:**
 
-- [ ] ENGLISH:
-	- [x] Notes:
-		- [x] Ozymandias
-		- [ ] The Prelude
-		- [ ] London
+- [ ] iMEDIA:
+	- [ ] Finish MOCs for:
+		- [ ] [[Job Roles]]
+		- [ ] [[Client-Creator Relationship]]
