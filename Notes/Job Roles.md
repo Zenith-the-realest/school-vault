@@ -18,4 +18,5 @@ Technical Roles are jobs that require technical know-how, such as [[Sound Editor
 
 ### What are Senior Roles?
 
-Senior Roles are roles that require leadership
+Senior Roles are roles that require leadership, such as [[Production Manager]]<u>s</u>, [[Creative Director]]<u>s</u>, or [[Campaign Manager]]<u>s</u>.
+
