@@ -13,3 +13,6 @@ There are 3 types of Job Roles: [[Creative Roles]],[[Technical Roles]], and [[Se
 > Senior Roles – jobs that require leadership and management of the project.
 
 ## How do clients communicate their requirements?
+
+Clients communicate their requirements in several ways – see [[Communicating Client Briefs]]
+
