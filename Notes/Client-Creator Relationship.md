@@ -15,5 +15,6 @@ Client requirements are what the client (a person, organisation / company) wants
 Clients communicate their requirements in several ways – see [[Communicating Client Briefs]].
 
 They can be communicated formally in **written form** or as **commissions**. Informally, they can be done through a **discussion**. They usually have negotiation.
+## How do people find their client requirements?
 
-
+People find their client requirements via [[Primary Research]] and [[Secondary Research]]
