@@ -8,11 +8,10 @@ Status: #MOC
 
 There are 3 types of Job Roles: [[Creative Roles]],[[Technical Roles]], and [[Senior Roles]].
 
-> Creative Roles – people that use creativity and imagination
-> Technical Roles – jobs that require technological skills.
-> Senior Roles – jobs that require leadership and management of the project.
+### What are Creative Roles?
 
+Creative roles are jobs that require creative input from its members. Examples include [[Illustrator]]<u>s</u>,[[Photographer]]<u>s</u>, or a [[Web Designer]].
 
-## What are Creative Roles?
+### What are Technical Roles?
 
-As mentioned before, creative roles are jobs that req
+Technical Roles are jobs that require technical know-how, such as [[Sound Editor]]<u>s</u
