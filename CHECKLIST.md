@@ -24,7 +24,7 @@ FRIDAY **29/12/23:**
 
 WEDNESDAY **2/1/24:**
 
-- [ ] iMEDIA:
-	- [ ] Finish MOCs for:
-		- [ ] [[Job Roles]]
-		- [ ] [[Client-Creator Relationship]]
+- [x] iMEDIA:
+	- [x] Finish MOCs for:
+		- [x] [[Job Roles]]
+		- [x] [[Client-Creator Relationship]]
