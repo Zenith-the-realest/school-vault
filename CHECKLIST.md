@@ -22,7 +22,7 @@ FRIDAY **29/12/23:**
 - [x] PHYSICS:
 	- [x] Do physics past paper
 
-TUESDAY **2/1/24:**
+WEDNESDAY **2/1/24:**
 
 - [ ] iMEDIA:
 	- [ ] Finish MOCs for:
