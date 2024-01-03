@@ -14,4 +14,8 @@ Creative roles are jobs that require creative input from its members. Examples i
 
 ### What are Technical Roles?
 
-Technical Roles are jobs that require technical know-how, such as [[Sound Editor]]<u>s</u
+Technical Roles are jobs that require technical know-how, such as [[Sound Editor]]<u>s</u>, [[Video Editor]]<u>s</u>, or [[Games Programmer]]<u>s</u>.
+
+### What are Senior Roles?
+
+Senior Roles are roles that require leadership
