@@ -1,4 +1,4 @@
-{{date:YYYYMMDD}}{{time:HHmm}}
+{{date}}{{time}}
 Subject: #iMedia
 Tags:
 

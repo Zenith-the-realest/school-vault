@@ -1,3 +1,9 @@
+---
+id: CHECKLIST
+aliases: []
+tags: []
+---
+
  WEDNESDAY **27/12/23:**
 
 - [x] SPANISH:
@@ -26,5 +32,5 @@ WEDNESDAY **2/1/24:**
 
 - [x] iMEDIA:
 	- [x] Finish MOCs for:
-		- [x] [[Job Roles]]
-		- [x] [[Client-Creator Relationship]]
+		- [x] Job Roles
+		- [x] Client-Creator Relationship

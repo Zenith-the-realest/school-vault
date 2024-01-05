@@ -1,9 +1,10 @@
-{{date:YYYYMMDD}}{{time:HHmm}}
+{{date}}{{time}}
 Subject: #English
+
+
 Tags:
 
 # {{title}}
-
 
 
 
