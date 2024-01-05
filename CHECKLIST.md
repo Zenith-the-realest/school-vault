@@ -1,6 +1,6 @@
 ---
 id: CHECKLIST
-aliases: []
+aliases: 
 tags: []
 ---
 
