@@ -40,4 +40,4 @@ WEDNESDAY **2/1/24:**
 SATURDAY **6/1/24:**
 - [] ENGLISH:
     - [] Notes for "London"
-    - [] Notes for "The Prelude"
+    - [X] Notes for "The Prelude"
