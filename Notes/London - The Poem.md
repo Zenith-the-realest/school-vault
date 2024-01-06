@@ -13,7 +13,7 @@ Subject: #English
 
 # London - The Poem
 
-## Structure:
+# Structure:
 
 The poem has a **repetitive structure**: it is written in quatrains (each stanza using 4 lines), with an **ABAB** rhyme scheme. There is a heavy emphasis on **repetition**, which reflects the *relentless, repetitive and overwhelming suffering in the city.*
 
@@ -28,6 +28,21 @@ Most of the poem is written in *iambic tetrameter*: the **repetition** further e
 >   "*marks of weakness, marks of woe*"
 
 In the line pointing out the weakness of the sufferers, the line is weak in its use of syllables: it contains less than the other lines. The weakening of this line is intentional, and truly reflects the weakness of the sufferers.
+
+# Language:
+
+> The poem predominantly presents the suffering of those of London: *"marks of weakness, marks of woe","cry of every man", "cry of every man", "cry of fear", "mind-forged manacles", "chimney-sweeper's cry", "hapless soldier's sigh", "youthful harlot's curse", "new-born infant's tear", "blights with plagues"* - the negative language is very obvious.
+
+### The use of "Charter'd":
+
+In the beginning, the use of "*charter'd*" is very clear. If something is "*charter'd*", it is under a legal contract. Between **1760 and 1820**, approximately *6 million acres of land* in England was charter'd (privately owned). The first usage of "charter'd" in the poem could refer to the fact that the properties around the speaker was privately owned. However, the repetition is ironic: "the charter'd Thames does flow" - here, the force of human power is emphasised due to the fact that it is controlling something natural: a river. The juxtaposition of natural power and human power shows that the *attempt of humans to control nature* is a cause of the suffering that the people experience, as the gap between the poor and the rich get wider, as the expanse of the latter's control increases.
+
+### The use of "mark":
+
+Another example of repetition is in the word "mark":
+
+> *"And **mark** in every face I meet
+> **Marks** of weakness, **marks** of woe"*
 
 # **References**
 [London - Context](Notes/London - Context.md)
