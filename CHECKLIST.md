@@ -1,6 +1,6 @@
 ---
 id: CHECKLIST
-aliases: 
+aliases: []
 tags: []
 ---
 
@@ -34,3 +34,8 @@ WEDNESDAY **2/1/24:**
 	- [x] Finish MOCs for:
 		- [x] Job Roles
 		- [x] Client-Creator Relationship
+
+SATURDAY **6/1/24:**
+- [] ENGLISH:
+    - [] Notes for "London"
+    - [] Notes for "The Prelude"
