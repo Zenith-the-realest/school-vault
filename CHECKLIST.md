@@ -35,6 +35,8 @@ WEDNESDAY **2/1/24:**
 		- [x] Job Roles
 		- [x] Client-Creator Relationship
 
+
+
 SATURDAY **6/1/24:**
 - [] ENGLISH:
     - [] Notes for "London"

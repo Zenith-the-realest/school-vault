@@ -47,6 +47,13 @@ The first use of "mark" ("mark in every face I meet") means to notice someone - 
 
 ### The use of the French Revolution:
 
+> *"The hapless soldier's sign <br>
+> Runs in blood down palace walls."*
+
+This message alludes to the recently occurred *French Revolution*, in which those in poverty rebelled against the monarchy due to their lack of interventionin the collapsing economy.
+
+The Revolution was inspired by **The Enlightenment**, but the Revolution had much more bloodshed, hence "runs in blood down palace walls." The use of this in the poem suggests that the unhappiness of the British soldier could lead to an uprising similar to the French Revolution.
+
 
 
 # **References**
