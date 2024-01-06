@@ -1,3 +1,6 @@
-## What is this?
+---
+id: 1704554145-TICV
+aliases: []
+tags: []
+---
 
-These are my notes for my **school subjects**.
