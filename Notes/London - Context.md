@@ -1,14 +1,22 @@
 ---
 id: London - Context
 aliases:
-  - What is London?
+  - London - Context
 tags: []
 ---
 
-## What is London?
-London is a state of mind, a state of living.
-## What is the use of London's intellectual capabilities?
+202401061651
+Subject: #English
 
-- [] Facts!
-    - [x] FACTS!!!!
+Tags: [Poetry - Power and Conflict](Notes/1704560296-ASKC.md)[London](Notes/1704560312-WVPA.md)
+
+# London - Context
+
+## Who was William Blake?
+
+William Blake, the author of **London**, was born in 1757 in London, where he mainly lived. Even though it may not be, this creates the implication that the "I" in the poem is Blake himself.
+Blake was also a 
+
+
+# **References**
 
