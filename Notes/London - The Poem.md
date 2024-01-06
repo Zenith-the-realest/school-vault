@@ -41,7 +41,7 @@ In the beginning, the use of "*charter'd*" is very clear. If something is "*char
 
 Another example of repetition is in the word "mark":
 
-> *"And **mark** in every face I meet
+> *"And **mark** in every face I meet <br>
 > **Marks** of weakness, **marks** of woe"*
 
 # **References**
