@@ -7,7 +7,3 @@ tags: []
 
 ## What is London?
 
-
-
-
-
