@@ -5,7 +5,6 @@ aliases:
 tags:
   - English
 ---
-z
 202401061701
 Subject: #English
 
@@ -43,6 +42,12 @@ Another example of repetition is in the word "mark":
 
 > *"And **mark** in every face I meet <br>
 > **Marks** of weakness, **marks** of woe"*
+
+The first use of "mark" ("mark in every face I meet") means to notice someone - i.e "notice every face I meet". However, the next times that it is used is to replace the word "signs" - i.e "signs of weakness, signs of woe". The repetition could ALSO reflect the cyclical nature of suffering, but the changing meaning of the word **marks** could also signify the poet's frustration at the changing nature of London, due to the **Industrial Revolution** - again due to those in power.
+
+### The use of the French Revolution:
+
+
 
 # **References**
 [London - Context](Notes/London - Context.md)
