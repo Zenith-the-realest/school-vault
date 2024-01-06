@@ -1,6 +1,3 @@
----
-id: 1704554145-TICV
-aliases: []
-tags: []
----
+## What is this?
 
+These are my **notes**, that I use for school.
