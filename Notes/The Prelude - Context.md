@@ -10,8 +10,6 @@ tags:
 Subject: #English
 
 
-Tags:
-
 # The Prelude - Context
 
 ## Who was William Wordsworth?
