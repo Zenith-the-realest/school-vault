@@ -54,6 +54,7 @@ This message alludes to the recently occurred *French Revolution*, in which thos
 
 The Revolution was inspired by **The Enlightenment**, but the Revolution had much more bloodshed, hence "runs in blood down palace walls." The use of this in the poem suggests that the unhappiness of the British soldier could lead to an uprising similar to the French Revolution.
 
+Overall, the language used in this poem clearly suggests that the poor suffer due to the *abuse of power by the **Government, the monarchy, the church, and rich landowners***.
 
 
 # **References**
