@@ -39,5 +39,5 @@ SUNDAY **7/1/24:**
 
 - [] ENGLISH:
     - [] Notes on:
-        - [] London
+        - [x] London
         - [] The Prelude
