@@ -56,6 +56,12 @@ The Revolution was inspired by **The Enlightenment**, but the Revolution had muc
 
 Overall, the language used in this poem clearly suggests that the poor suffer due to the *abuse of power by the **Government, the monarchy, the church, and rich landowners***.
 
+The final line of the poem is:
+
+> *the marriage hearse*.
+
+This is an *oxymoron*: two words that contradict each other, as marriage is not typically associated with the same image of death that a hearse is. This oxymoron suggests that the glorious London of the past is to be destroyed by the present.
+
 
 # **References**
 [London - Context](Notes/London - Context.md)
