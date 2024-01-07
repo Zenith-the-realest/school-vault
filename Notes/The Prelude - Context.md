@@ -22,7 +22,9 @@ Tags:
 
 ## What was The Prelude intended to be?
 
-The Prelude was intended to be the first part of a **three part epic poem** called *The Recluse*. Sadly, Wordsworth never managed to finish the poem, but the Prelude is almost **400 pages** in total.
+The Prelude was intended to be the first part of a **three part epic poem** called *The Recluse*. Sadly, Wordsworth never managed to finish the poem, but the Prelude is almost **400 pages** in total. The format of the poem is so that it **firstly** explores Wordsworth's past, and then its *philosophical importance*, relating it to ***nature and wider society***.
+
+>*Wordsworth himself described it as "**a poem on the growth of my own mind**"*
 
 
 # **References**
