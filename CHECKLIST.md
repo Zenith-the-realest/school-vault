@@ -35,9 +35,9 @@ WEDNESDAY **2/1/24:**
 		- [x] Job Roles
 		- [x] Client-Creator Relationship
 
+SUNDAY **7/1/24:**
 
-
-SATURDAY **6/1/24:**
 - [] ENGLISH:
-    - [] Notes for "London"
-    - [X] Notes for "The Prelude"
+    - [] Notes on:
+        - [] London
+        - [] The Prelude
