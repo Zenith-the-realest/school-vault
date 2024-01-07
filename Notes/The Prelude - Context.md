@@ -24,6 +24,9 @@ The Prelude was intended to be the first part of a **three part epic poem** call
 
 >*Wordsworth himself described it as "**a poem on the growth of my own mind**"*
 
+## Why did Wordsworth include stealing a boat?
+
+The extract of the poem begins with 
 
 # **References**
 
