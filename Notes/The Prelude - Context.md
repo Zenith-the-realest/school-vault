@@ -26,5 +26,5 @@ The Prelude was intended to be the first part of a **three part epic poem** call
 
 ## Why did Wordsworth include stealing a boat?
 
-The extract of the poem begins with the speaker of the poem ***real*** 
+The extract of the poem begins with the speaker of the poem  
 
