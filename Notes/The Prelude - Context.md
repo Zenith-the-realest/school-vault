@@ -26,5 +26,10 @@ The Prelude was intended to be the first part of a **three part epic poem** call
 
 ## Why did Wordsworth include stealing a boat?
 
-The extract of the poem begins with the speaker of the poem stealing a boat. This is because 
+The extract of the poem begins with the speaker of the poem stealing a boat. This is because it is actually a real story of Wordsworth as a **young boy**, stealing a boat and rowing onto the lake.
+
+#### Synopsis of the boat stealing:
+
+- Wordsworth rows on the lake joyously.
+- The joy turns into horror as Wordsworth fixes his eye on a mountain, which gets closer to view as he rows.
 
