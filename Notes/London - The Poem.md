@@ -28,6 +28,7 @@ Most of the poem is written in *iambic tetrameter*: the **repetition** further e
 
 In the line pointing out the weakness of the sufferers, the line is weak in its use of syllables: it contains less than the other lines. The weakening of this line is intentional, and truly reflects the weakness of the sufferers.
 
+
 # Language:
 
 > The poem predominantly presents the suffering of those of London: *"marks of weakness, marks of woe","cry of every man", "cry of every man", "cry of fear", "mind-forged manacles", "chimney-sweeper's cry", "hapless soldier's sigh", "youthful harlot's curse", "new-born infant's tear", "blights with plagues"* - the negative language is very obvious.
