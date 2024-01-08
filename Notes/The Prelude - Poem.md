@@ -40,6 +40,6 @@ This use of a singular verse also creates a **conversational tone**, as if Words
 ## The gender of nature:
 
 In the poem, the speaker (Wordsworth as a boy), is convinced to steal the boat by a "her"; this "her" is **nature** itself. The feminine gender found in nature (along with other words like "boat", c"cave", and "lake")contrasts the masucline words like "oars","line","ridge", and "peak". It is clear that the poet was 
-
+real real
 
 # **References**
