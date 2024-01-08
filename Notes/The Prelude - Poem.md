@@ -30,6 +30,8 @@ Blank verse is when the poem has **no rhyme scheme**, but is written in **iambic
 
 # Structure:
 
-The poem is **one long, sprawling verse** 
+The poem is **one long, sprawling verse**, for several reasons: For example, the reader having to read the sprawling verses has them **overwhelmed** by the intensity of the poem; similar to how Wordsworth as a young boy was overwhelmed by what he saw on the boat.
+
+This use of a singular verse also creates a **conversational tone**, as if Wordsworth is trying to inform the reader of his revelatory experiences with nature. 
 
 # **References**
