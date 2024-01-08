@@ -32,4 +32,8 @@ The extract of the poem begins with the speaker of the poem stealing a boat. Thi
 
 - Wordsworth rows on the lake joyously.
 - The joy turns into horror as Wordsworth fixes his eye on a mountain, which gets closer to view as he rows.
+- He is harrassed for days after the event.
+
+>*Although it may seem boring, this poem is still classified as **an epic poem.** 
+
 
