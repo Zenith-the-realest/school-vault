@@ -5,16 +5,14 @@ aliases:
 tags:
   - English
 ---
-
-
 202401082001
 Subject: #English
+
 
 
 # The Prelude - Poem
 
 # Form:
-
 
 ## Epic Poetry:
 
@@ -30,10 +28,8 @@ In epic poetry, there is one major event; in The Prelude, it is an entire **life
 
 Blank verse is when the poem has **no rhyme scheme**, but is written in **iambic pentameter**. This was popularised by the aforementioned Milton's Paradise Lost, and it became commonplace for poets of the time to use it - including Wordsworth.
 
-
-
 # Structure:
 
-
+The poem is **one long, sprawling verse** 
 
 # **References**
