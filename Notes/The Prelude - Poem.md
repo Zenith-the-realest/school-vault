@@ -56,7 +56,19 @@ The boy unchaining the boat is described as an *act of stealth*. "Stealth" has a
 >*Until they melted all into one track*
 >*Of sparkling light.*
 
-The poet describes the boat on the water - the imagery is *positive*, describing it as **"circles glittering"** and **"sparkling light"**  gives the water a magical, almost celestial quality. This positivity is **contrasted** in later lines.
+The poet describes the boat on the water - the imagery is *positive*, describing it as **"circles glittering"** and **"sparkling light"**  gives the water a magical, almost celestial quality. This positivity is **contrasted** in later lines. The present participles such as "stepping" and "leaving" build up to the most *positive point* of the poem, showing that there will later be a decline.
+
+>But now, like one who rows,
+Proud of his skill, to reach a chosen point
+With an unswerving line, I fixed my view
+Upon the summit of a craggy ridge,
+22
+The horizon’s utmost boundary; far above
+Was nothing but the stars and the grey s
+
+
+
+
 
 # **References** 
-[The Prelude - Context](Notes/The Prelude - Context.md)
+[[The Prelude - Context]]
