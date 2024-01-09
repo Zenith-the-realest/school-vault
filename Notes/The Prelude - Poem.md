@@ -62,12 +62,24 @@ The poet describes the boat on the water - the imagery is *positive*, describing
 Proud of his skill, to reach a chosen point
 With an unswerving line, I fixed my view
 Upon the summit of a craggy ridge,
-22
 The horizon’s utmost boundary; far above
-Was nothing but the stars and the grey s
+Was nothing but the stars and the grey sky.
 
+Here the pride of man is again mentioned, but the simile *"like one who rows, proud of his skill"* shows that he is uncertain, but the use of *chosen* shows the poet's arrogance; he is nn control, heading towards the point he has chosen to. 
 
+## Describing the mountain:
+The poet uses personification throughout the poem, but there is a visible lack of it being used to **to describe the mountain,** it is now labelled an "it". The previous moments had the poet hold power, and was able to define them as he chose, but loses that power in the cliff face.
 
+> This is even more apparent in the vocabulary used to describe the mountain: a "huge peak". The ambitious vocabulary has left the poet, as he is unable to express himself in the face of the peak.
+
+> *I struck and struck again,*
+*And growing still in stature the grim shape*
+*Towered up between me and the stars, and still,*
+*For so it seemed, with purpose of its own*
+*And measured motion like a living thing,*
+*Strode after me*
+
+The poet starts to lose his grip on reality here, stating the mountain had a "purpose of its own", and that it "strode after him". However, he says "so it seemed", meaning that he no longer believes what he thought happened 
 
 
 # **References** 
