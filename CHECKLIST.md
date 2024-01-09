@@ -40,4 +40,4 @@ SUNDAY **7/1/24:**
 - [] ENGLISH:
     - [] Notes on:
         - [x] London
-        - [] The Prelude (*continuing 8/1/24*)
+        - [] The Prelude (*continuing 9/1/24*)
