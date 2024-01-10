@@ -100,7 +100,7 @@ Here, the **poet leaves the boat where he found it, and goes home in a serious a
 *There hung a darkness, call it solitude* 
 *Or blank desertion. No familiar shapes* 
 *Remained, no pleasant images of trees,* 
-*Of sea or sky, no colours of geren fields ;* 
+*Of sea or sky, no colours of green fields ;* 
 *But huge and mighty forms, that do not live* 
 *Like living men, moved slowly through the mind* 
 *By day, and were a trouble to my dreams.* 
