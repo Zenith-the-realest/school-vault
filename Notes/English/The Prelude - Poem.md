@@ -81,11 +81,41 @@ The poet uses personification throughout the poem, but there is a visible lack o
 
 The poet **starts to lose his grip on reality here,**  stating the mountain had a ,**"purpose of its own"**  and that it **"strode after him".**  However, he says "so it seemed", meaning that he no longer believes what he thought happened; the mountain did NOT follow him. 
 
-> *With trembling oars I turned,*
+>*With trembling oars I turned,*
 >*And through the silent water stole my way*
 >*Back to the covert of the willow tree;*
 
 The poet is scared now, and retreats to shore - The word "stole" is used here, in reference to "stealth", but now the **the arrogance of the poet has dissappeared**, showing how man is powerless in the face of nature. 
+
+>*There in her mooring-place I left my bark -* 
+*And through the meadows homeward went, in grave* 
+*And serious mood* 
+
+Here, the **poet leaves the boat where he found it, and goes home in a serious and unhappy mood**. The use of "grave and serious" is unspecific compared to the other emotions in the poem. This vague language reflects how major the sight the poet saw was; he could not articulate it.
+
+>*but after I had seen* 
+*That spectacle, for many days, my brain* 
+*Worked with a dim and undetermined sense* 
+*Of unknown modes of being; o'er my thoughts*
+*There hung a darkness, call it solitude* 
+*Or blank desertion. No familiar shapes* 
+*Remained, no pleasant images of trees,* 
+*Of sea or sky, no colours of geren fields ;* 
+*But huge and mighty forms, that do not live* 
+*Like living men, moved slowly through the mind* 
+*By day, and were a trouble to my dreams.* 
+
+The ending is the most problematic part; the poet is unable to shake the *"darkness"* of his thoughts, as everything he knew (the *"familiar shapes"*) are now gone.
+
+The vague language appears once again in the *dim and undetermined sense of unknown*, showing how the poet is both able and unable to describe **his shock**. This idea is again conveyed in "**Darkness, call it solitude**".
+
+The repetition of "no" in "**No familiar shapes / Remained, no pleasant images of trees,/ Of sea or sky, no colours of green fields** " has the theme of the poem highlighted; he now knows the vast expanse of which he does not know. This is evident through the fact that his pride has now vanished; **he can only explain through what he DOESN'T know.** 
+
+## The change of the poet:
+
+The poet now has to reevaluate everything that he knows, due to the sheer magnitude of what he has seen - he even struggles to sleep at night, realising his thoughts wer elimited.
+
+Wordsworth's views of "Man, Nature and Society" are clear; Man/society are condemned in this poem as **prideful and arrogant**, seen through the depiction of the poet in the first half. Nature is depicted as **powerful, but also terrifying**, evident in the second half, where the boy shakenly returns with the boat. It is clear that **humans don't have control over nature; nature has control over them.** 
 
 # **References** 
 [[The Prelude - Context]]

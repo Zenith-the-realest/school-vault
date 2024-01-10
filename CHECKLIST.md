@@ -1,6 +1,7 @@
 ---
 id: CHECKLIST
-aliases: []
+aliases:
+  - CHECKLIST
 tags: []
 ---
 
@@ -37,7 +38,7 @@ WEDNESDAY **2/1/24:**
 
 SUNDAY **7/1/24:**
 
-- [] ENGLISH:
-    - [] Notes on:
+- [x] ENGLISH:
+    - [x] Notes on:
         - [x] London
         - [x] The Prelude (*continuing 9/1/24*)
