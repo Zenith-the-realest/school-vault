@@ -119,4 +119,4 @@ Wordsworth's views of "Man, Nature and Society" are clear; Man/society are conde
 
 # **References** 
 [[The Prelude - Context]]
-
+[[Romanticism]]

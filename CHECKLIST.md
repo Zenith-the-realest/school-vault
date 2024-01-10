@@ -42,3 +42,9 @@ SUNDAY **7/1/24:**
     - [x] Notes on:
         - [x] London
         - [x] The Prelude (*continuing 9/1/24*)
+
+WEDNESDAY **10/1/24:** 
+- [] ENGLISH:
+  - [] Notes:
+      - [] Romanticism
+    
