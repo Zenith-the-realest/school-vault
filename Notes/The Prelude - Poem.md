@@ -79,8 +79,15 @@ The poet uses personification throughout the poem, but there is a visible lack o
 *And measured motion like a living thing,*
 *Strode after me*
 
-The poet starts to lose his grip on reality here, stating the mountain had a "purpose of its own", and that it "strode after him". However, he says "so it seemed", meaning that he no longer believes what he thought happened 
+The poet **starts to lose his grip on reality here,**  stating the mountain had a ,**"purpose of its own"**  and that it **"strode after him".**  However, he says "so it seemed", meaning that he no longer believes what he thought happened; the mountain did NOT follow him. 
 
+> *With trembling oars I turned,*
+>*And through the silent water stole my way*
+>*Back to the covert of the willow tree;*
+
+The poet is scared now, and retreats to shore - The word "stole" is used here, in reference to "stealth", but now the **the arrogance of the poet has dissappeared**, showing how man is powerless in the face of nature. 
 
 # **References** 
 [[The Prelude - Context]]
+[[The Prelude - Poem]]
+
