@@ -66,8 +66,8 @@ The horizon’s utmost boundary; far above
 Was nothing but the stars and the grey sky.
 
 Here the pride of man is again mentioned, but the simile *"like one who rows, proud of his skill"* shows that he is uncertain, but the use of *chosen* shows the poet's arrogance; he is nn control, heading towards the point he has chosen to. 
+## The poet's arrogance:
 
-## Describing the mountain:
 The poet uses personification throughout the poem, but there is a visible lack of it being used to **to describe the mountain,** it is now labelled an "it". The previous moments had the poet hold power, and was able to define them as he chose, but loses that power in the cliff face.
 
 > This is even more apparent in the vocabulary used to describe the mountain: a "huge peak". The ambitious vocabulary has left the poet, as he is unable to express himself in the face of the peak.
@@ -89,5 +89,4 @@ The poet is scared now, and retreats to shore - The word "stole" is used here, i
 
 # **References** 
 [[The Prelude - Context]]
-[[The Prelude - Poem]]
 
