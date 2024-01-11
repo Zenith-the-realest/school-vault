@@ -12,7 +12,7 @@ Subject: #English
 
 # The Prelude - Context
 
-## Who was William Wordsworth?
+# Who was William Wordsworth?
 
 - William Wordsworth was born in **Cumberland, England, 1770.** He had a *troubled relationship* with his father, and was also hated by his grandparents and uncle from his mother's side.
 - His parents both died before William reached his mid-teens, so he was insultingly sent to live with the family that hated him so much.
