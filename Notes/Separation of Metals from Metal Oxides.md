@@ -31,6 +31,9 @@ Because most metals are reactive, they will form **metal oxides**. For example, 
 # How do we get rid of anything reacted with a metal?
 
 We usually want the metal in its purest form, when it is an element on its own, (*i.e $Cu$, $Fe$, etc.*)
+This means we have to remove its oxide (or whatever the metal is bound to.) There are two methods to doing this:
+
+## Carbon reduction:
 
 
 # **References**
