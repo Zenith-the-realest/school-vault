@@ -8,8 +8,7 @@ tags: []
  WEDNESDAY **27/12/23:**
 
 - [x] SPANISH:
-	- [x] Christmas booklet
-- [x] MATHS:
+	- [x] Christmas booklet [x] MATHS:
 	- [x] One pinpoint booklet
 
 
@@ -47,4 +46,8 @@ WEDNESDAY **10/1/24:**
 - [x] ENGLISH:
   - [x] Notes:
       - [x] Romanticism
+
+THURSDAY **11/1/24:** 
+
+
     
