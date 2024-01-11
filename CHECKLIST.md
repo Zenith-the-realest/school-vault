@@ -51,6 +51,6 @@ THURSDAY **11/1/24:**
 
 CHEMISTRY:
 - Notes on:
-  - [] [[Separation of Metals from Metal Oxides|Separation of Metals from Metal Oxides]]
+  - [x] [[Separation of Metals from Metal Oxides|Separation of Metals from Metal Oxides]]
 
     
