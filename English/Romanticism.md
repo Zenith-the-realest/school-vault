@@ -11,10 +11,6 @@ Subject: #English
 
 # Romanticism
 
-
-
-# Romanticism
-
 Romanticism was a movement inspired by **The Enlightenment, specifically its poetry**.
 
 # What was Enlightenment poetry?
@@ -32,5 +28,5 @@ Romanticism can be defined using several conventions:
 >An example of a *Romantic poem* is **The Prelude** by Wordsworth.
 
 # **References:** 
-[[The Prelude - Poem]] and [[The Prelude - Context]] - Both poems by **Wordsworth.** 
+[[The Prelude - Poem]] and [[The Prelude - Context]] - Both poems by **Wordsworth, who was a Romantic poet himself.** 
 
