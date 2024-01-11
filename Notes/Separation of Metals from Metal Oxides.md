@@ -40,6 +40,5 @@ Carbon reduction is essentially when carbon **takes the element from the metal,*
 - $2CuO + C \rightarrow 2Cu + CO_2$
 
 >*This can only be done when the metal is **less** reactive than carbon.* 
-
-/home/yusuf/Desktop/swappy-20240111_205938.png
+![reactivitySeries.png|center|150](Files/reactivitySeries.png)
 # **References**
