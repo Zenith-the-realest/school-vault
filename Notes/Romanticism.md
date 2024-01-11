@@ -32,4 +32,5 @@ Romanticism can be defined using several conventions:
 >An example of a *Romantic poem* is **The Prelude** by Wordsworth.
 
 # **References:** 
-[[The Prelude - Poem]] and [[The Prelude - Context]]
+[[The Prelude - Poem]] and [[The Prelude - Context]] - Both poems by **Wordsworth.** 
+

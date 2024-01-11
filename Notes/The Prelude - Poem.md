@@ -113,7 +113,7 @@ The repetition of "no" in "**No familiar shapes / Remained, no pleasant images o
 
 ## The change of the poet:
 
-The poet now has to reevaluate everything that he knows, due to the sheer magnitude of what he has seen - he even struggles to sleep at night, realising his thoughts wer elimited.
+The poet now has to reevaluate everything that he knows, due to the sheer magnitude of what he has seen - he even struggles to sleep at night, realising his thoughts were limited.
 
 Wordsworth's views of "Man, Nature and Society" are clear; Man/society are condemned in this poem as **prideful and arrogant**, seen through the depiction of the poet in the first half. Nature is depicted as **powerful, but also terrifying**, evident in the second half, where the boy shakenly returns with the boat. It is clear that **humans don't have control over nature; nature has control over them.** 
 
