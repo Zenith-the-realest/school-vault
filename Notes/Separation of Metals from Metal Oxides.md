@@ -19,7 +19,7 @@ Oxidation is defined as the **gain of oxygen,** and reduction the **loss of oxyg
 Examples:
 
 Oxidation - $2Mg + O_2 \rightarrow 2MgO$
-> Here, the magnesium has gained oxygen, therefore it is **oxidised.**
+o> Here, the magnesium has gained oxygen, therefore it is **oxidised.**
 Reduction - $2MgO \rightarrow 2Mg + O_2$
 > Here, the magnesium oxide has reduced to become magnesium + oxygen, and therefore it is **reduced.** 
 
@@ -35,5 +35,11 @@ This means we have to remove its oxide (or whatever the metal is bound to.) Ther
 
 ## Carbon reduction:
 
+Carbon reduction is essentially when carbon **takes the element from the metal,** and the pure metal is left behind. An example of this is:
 
+- $2CuO + C \rightarrow 2Cu + CO_2$
+
+>*This can only be done when the metal is **less** reactive than carbon.* 
+
+/home/yusuf/Desktop/swappy-20240111_205938.png
 # **References**
