@@ -2,13 +2,16 @@
 id: CHECKLIST
 aliases:
   - CHECKLIST
-tags: []
+tags:
+  - CHECKLIST
 ---
 
  WEDNESDAY **27/12/23:**
 
 - [x] SPANISH:
-	- [x] Christmas booklet [x] MATHS:
+	- [x] Christmas booklet  
+
+- [x] MATHS:
 	- [x] One pinpoint booklet
 
 
@@ -70,8 +73,9 @@ SPANISH:
 SATURDAY **13/1/24:** 
 
 ENGLISH:
-
-- [] Notes:
-    - [] [[Remains - Poem]]
+- [x] Notes:
+    - [x] [[Remains - Poem]]
     - [x] [[Remains - Context]]
+    - [] [[Exposure - Context]]
+    - [] [[Exposure - Poem]]
 

@@ -43,4 +43,4 @@ After the war has concluded, the narrator turns to **substance abuse**, but it i
 
 ### The memory of the looter:
 
-When describing the memory of the looter that "remains" in the soldiers head, he uses the war metaphor **"dug in behind enemy lines"**. This use of war imagery, while the poet is now at home conveys the impact that war has had on the narrator's psyche: **his way of thinking has adapted to the boundless amounts of conflict he has seen.** 
+When describing the memory of the looter that "remains" in the soldiers head, he uses the war metaphor **"dug in behind enemy lines"**. This use of war imagery, while the poet is now at home conveys the impact that war has had on the narrator's psyche: **his way of thinking has adapted to the boundless amounts of conflict he has seen, showing how inescapable war is.**
