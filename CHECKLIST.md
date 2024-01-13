@@ -52,7 +52,26 @@ THURSDAY **11/1/24:**
 CHEMISTRY:
 - Notes on:
   - [x] [[Separation of Metals from Metal Oxides]]
+
+FRIDAY **12/1/24:** 
+
+MATHS:
+  - [x] Sparx:
+    - [x] Growth and decay
+    - [x] Graphs of direct and inverse proportion
+
+SPANISH:
+  - [x] Homework:
+    - [x] Kerboodle (10.1H)
+    - [x] Booklet (10.1H) *finished 13/1/24* 
+    - [x] Quizlet (11.1G)
+    - [x] Writing (Kerboodle 10.1H) *finished 13/1/24* 
+
+SATURDAY **13/1/24:** 
+
 ENGLISH:
-- Notes on:
-    - [] [[Remains - Context]]
+
+- [] Notes:
     - [] [[Remains - Poem]]
+    - [] [[Remains - Context]]
+
