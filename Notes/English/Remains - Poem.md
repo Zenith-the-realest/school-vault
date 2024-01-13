@@ -29,10 +29,19 @@ Armitage also uses vague language, which reflects the *indescribable horror of w
 
 > *This suggests that, despite the man's arduous military training, he is not prepared for the harsh reality that is killing someone.* 
 
+## The description of the aftermath of killing the looter:
 
+>*One of my mates goes by* 
+>*and tosses his guts back into his body.* 
+>*Then he's carted off in the back of a lorry.*
 
+The treatment of the now dead looter is very disrespectful, conveyed by the verb "tossing", as this creates an image of the once living person as a **piece of trash.**. In addition, these words create the image of these soldiers as bin-men, further reflecting this idea. This treatment of the man leaves an impact on the man.
+
+## The lasting effects on the narrator:
+
+After the war has concluded, the narrator turns to **substance abuse**, but it is clearly *not working -* **"the drink and drugs won't flush him out."** The "him" is clearly the looter, but the verb "flush" creates several images in the reader's mind - harking back to the ambiguity of the poem's title.
 
 
 # **References**
-
+[[Remains - Context]]
 
