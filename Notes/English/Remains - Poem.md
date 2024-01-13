@@ -39,9 +39,8 @@ The treatment of the now dead looter is very disrespectful, conveyed by the verb
 
 ## The lasting effects on the narrator:
 
-After the war has concluded, the narrator turns to **substance abuse**, but it is clearly *not working -* **"the drink and drugs won't flush him out."** The "him" is clearly the looter, but the verb "flush" creates several images in the reader's mind - harking back to the ambiguity of the poem's title.
+After the war has concluded, the narrator turns to **substance abuse**, but it is clearly *not working -* **"the drink and drugs won't flush him out."** The "him" is clearly the looter, but the verb "flush" creates an image in the reader's mind, as if he was flushing out a disease. This suggests that the soldier is now unclean due to what he has done.
 
+### The memory of the looter:
 
-# **References**
-[[Remains - Context]]
-
+When describing the memory of the looter that "remains" in the soldiers head, he uses the war metaphor **"dug in behind enemy lines"**. This use of war imagery, while the poet is now at home conveys the impact that war has had on the narrator's psyche: **his way of thinking has adapted to the boundless amounts of conflict he has seen.** 
