@@ -25,6 +25,9 @@ This casual language does not remain though; as the soldier shoots the looter, *
 
 ## The use of vague language:
 
+Armitage also uses vague language, which reflects the *indescribable horror of war (can be compared to "Bayonet Charge")*. This can be seen in the description of the looter's body, being **"on the ground, sort of inside out"**. The use of **"sort of"** is vague language, reflecting the impossibility that is describing what the horror of war is.
+
+> *This suggests that, despite the man's arduous military training, he is not prepared for the harsh reality that is killing someone.* 
 
 
 

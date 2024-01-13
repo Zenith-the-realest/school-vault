@@ -72,6 +72,6 @@ SATURDAY **13/1/24:**
 ENGLISH:
 
 - [] Notes:
-    - [] [[Remains - Poem]]
+    - [x] [[Remains - Poem]]
     - [] [[Remains - Context]]
 
