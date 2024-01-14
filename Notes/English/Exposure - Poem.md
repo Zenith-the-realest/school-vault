@@ -54,8 +54,41 @@ Owen uses personification to **highlight the fact that weather is more *dangerou
 >*"air that shudders with black ice"* 
 >*"pale flakes with finger stealth"* 
 
-This use of personification presents the idea that nature is more deadly than the enemy. This is further emphasised in Owen's use of militaristic language to describe the rain, which *"attacks in ranks".* 
+This use of personification presents the idea that nature is more deadly than the enemy. This is further emphasised in Owen's use of militaristic language to describe the rain, which *"attacks once more in ranks".* 
+## The final lines:
 
+The final lines of the last four verses are:
+
+>*"What are we doing here?"*
+>*"Is it that we are dying?"*
+>*"We turn back to our dying"*
+>*"For love of God is dying."*
+
+These stanzas relate to each other; the **second** answers the **first,** and the third and final lines are a response to this query and response. The last line (**"For love of God is dying"** ) is ambiguous: it could be suggesting that people lose their religious beliefs in the face of the horrors of war (knowing that Owen rejected the church), or it could mean that this harsh and brutal weather was God's punishment to them.
+
+## Sibilance:
+
+>*"Sudden successive flights of bullets streak the silence"* 
+>*"Pale flakes with fingering stealth come feeling for our faces-"* 
+
+The sinister sound created by this sibilance could mean:
+- The hissing of a snake, reminding the reader of the environmental threats.
+- The sound of bullets passing overhead.
+- The sound of the shivering soldiers.
+
+## Caesura:
+
+>*"Slowly our ghosts drag home: glimpsing the sunk fires,glozed*
+>*With crusted dark-red jewels; crickets jingle there;*
+>*For hours the innocent mice rejoice:the house is theres;*
+>*Shutters and doors, all closed: on us the doors are closed,*
+>*We turn back to our dying""* 
+
+This caesura used shows the division between the soldiers **homes**, and the **present war.** 
+
+## The ending:
+
+The ending is very important; having established before that the soldiers perceive themselves as sacrifices to save the public, the contrasting **"but nothing happens"** ends the poem. Structurally, it ends as it began, showing its cyclical structure and highlighting how futile war is in the end.
 # **References**
 [[Exposure - Context]]
 [[Charge Of The Light Brigade - Poem]] and [[Bayonet Charge - Poem]]- War Poetry
