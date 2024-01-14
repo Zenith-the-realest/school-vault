@@ -31,7 +31,6 @@ London originates from Blake's **"Songs of Experience"**, a companion piece to h
 
 # **References**
 
-[London - The Poem](Notes/London - The Poem.md)]
-
+[[London - The Poem]]
 ##### Footnotes:
 When I say "London", I mean the poem, and when I say London, I mean the city.
