@@ -1,5 +1,10 @@
 ---
 id: CHECKLIST
+aliases: []
+tags: []
+---
+
+--- id: CHECKLIST
 aliases:
   - CHECKLIST
 tags:
@@ -76,6 +81,6 @@ ENGLISH:
 - [x] Notes:
     - [x] [[Remains - Poem]]
     - [x] [[Remains - Context]]
-    - [] [[Exposure - Context]]
+    - [x] [[Exposure - Context]] (*finished 14/1/24*)
     - [] [[Exposure - Poem]]
 
