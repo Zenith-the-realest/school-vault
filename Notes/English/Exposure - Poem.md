@@ -20,6 +20,7 @@ In "Exposure", the theme of the *futility of war* is at the forefront. The title
 
 Each stanza starts with a blunt and powerful sentence:
 >*Our brains ache, in the merciless iced east winds that knive us..*
+
 followed with emotive vocabulary such as *"wearied","low drooping","confuse","worried".* 
 
 However, each stanza ends with an anti-climax:
@@ -43,7 +44,17 @@ This rhyme scheme remains for the entire poem, its repetitive nature reflecting 
 
 Owen describes the distant gunfire as a "dull rumour of some other war." This could be the soldiers thinking that they are **detached form whatever battle is occurring elsewhere,** as they are attempting to survive the harsh weather conditions. However, this could also be a biblical allusion: In Matthew 24, jesus mentions "you will hear of wars and rumours of wars", his point being that **the end of the world will come with no one's notice.** However, the point that Owen's reference makes is that **the end of the world has already come for the freezing soldiers.** 
 
+## Personification:
 
+Owen uses personification to **highlight the fact that weather is more *dangerous* than the *"less deadly bullets."*** 
+
+>*"winds that knive us"*
+>*"mad gusts"* 
+>*"Dawn massing in the east / her melancholy army"* 
+>*"air that shudders with black ice"* 
+>*"pale flakes with finger stealth"* 
+
+This use of personification presents the idea that nature is more deadly than the enemy. This is further emphasised in Owen's use of militaristic language to describe the rain, which *"attacks in ranks".* 
 
 # **References**
 [[Exposure - Context]]
