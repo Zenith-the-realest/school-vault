@@ -4,12 +4,6 @@ aliases: []
 tags: []
 ---
 
---- id: CHECKLIST
-aliases:
-  - CHECKLIST
-tags:
-  - CHECKLIST
----
 
  WEDNESDAY **27/12/23:**
 
@@ -82,5 +76,7 @@ ENGLISH:
     - [x] [[Remains - Poem]]
     - [x] [[Remains - Context]]
     - [x] [[Exposure - Context]] (*finished 14/1/24*)
-    - [] [[Exposure - Poem]]
+    - [x] [[Exposure - Poem]] (*finished 14/1/24*)
+
+
 
