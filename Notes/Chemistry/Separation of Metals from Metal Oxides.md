@@ -4,9 +4,10 @@ aliases:
   - Separation of Metals from Metal Oxides
 tags:
   - Chemistry
+  - C6
 ---
 202401111859
-Subject: #Chemistry,#C6
+Subject: #Chemistry, #C6
 
 
 # Separation of Metals from Metal Oxides

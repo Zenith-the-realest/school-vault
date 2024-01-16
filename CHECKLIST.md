@@ -4,12 +4,6 @@ aliases: []
 tags: []
 ---
 
---- id: CHECKLIST
-aliases:
-  - CHECKLIST
-tags:
-  - CHECKLIST
----
 
  WEDNESDAY **27/12/23:**
 
