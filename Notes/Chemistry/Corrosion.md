@@ -32,6 +32,23 @@ Here, the iron is **oxidised**, as it **loses** electrons, and the oxygen is **r
 
 Rusting requires **water, iron, and oxygen** to take place.
 
+>This means that if there were 3 test tubes, one with **one with water and no oxygen,** one with **no water and oxygen,** and one with **both water and oxygen,** the only one where rusting would take place would be the third one, as there is a presence of both water and oxygen.
+
+>In corrosion, it is only **the surface of the metal** that corrodes.
+>However, the only reason that iron **decreases** is because the rust *flakes off,* exposing the non-corroded metal.
+>However, in most cases, such as aluminium corroding to form **aluminium oxide,** the metal will not flake away, and the **aluminium oxide forms a *protective layer.*** 
+
+## How do we ***prevent*** corrosion?
+
+There are two categories of methods that prevent corrosion: **barrier and sacrificial.** 
+
+### Barrier methods:
+
+Barrier methods **prevent oxygen and water from** touching the iron. Examples include:
+
+1 - **Painting it** - this works well for larger pieces.
+2 - **Oil / Grease** - necessary for objects that have moving parts.
+3 - **Electroplating** - Using *electrolysis* to cover the iron in a thin layer of another metal, which **protects the metal underneath.** 
 
 # **References**
 
