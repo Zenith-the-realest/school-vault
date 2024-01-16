@@ -27,6 +27,12 @@ $$O_2 + 4e^- \rightarrow 2O^{2-}$$
 
 Here, the iron is **oxidised**, as it **loses** electrons, and the oxygen is **reduced,** as it **gains** electrons.
 >This means that rusting is a **redox reaction,** meaning that reduction and oxidation occur in the **same reaction.** 
+
+## What conditions are required for **rust** to take place?
+
+Rusting requires **water, iron, and oxygen** to take place.
+
+
 # **References**
 
 
