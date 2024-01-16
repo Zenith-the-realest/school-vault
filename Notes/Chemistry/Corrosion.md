@@ -61,4 +61,4 @@ Sacrificial methods **add a more reactive metal to the iron.
 This is a barrier method because it **forms a protective coating,** and also a sacrifical method because that even when the iron is exposed, the zinc will react with any oxygen.
 # **References**
 
-[[Corrosion]]
+[[Separation of Metals from Metal Oxides]]
