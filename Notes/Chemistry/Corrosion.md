@@ -50,7 +50,15 @@ Barrier methods **prevent oxygen and water from** touching the iron. Examples in
 2 - **Oil / Grease** - necessary for objects that have moving parts.
 3 - **Electroplating** - Using *electrolysis* to cover the iron in a thin layer of another metal, which **protects the metal underneath.** 
 
+### Sacrificial methods:
+
+Sacrificial methods **add a more reactive metal to the iron.
+
+- For iron, you could add **aluminium or zinc,** meaning if the object is exposed to oxygen, the more reactive metal will corrode instead of the iron.
+
+>An example that uses ***both methods*** is called **galvanising.** This involves coating the metal in a layer of zinc.
+
+This is a barrier method because it **forms a protective coating,** and also a sacrifical method because that even when the iron is exposed, the zinc will react with any oxygen.
 # **References**
 
-
-
+[[Corrosion]]
