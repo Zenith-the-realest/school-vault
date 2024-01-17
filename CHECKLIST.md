@@ -79,4 +79,16 @@ ENGLISH:
     - [x] [[Exposure - Poem]] (*finished 14/1/24*)
 
 
+WEDNESDAY **16/1/24:**
+
+CHEMISTRY:
+- [x] Notes:
+    - [x] [[Corrosion]]
+
+THURSDAY **17/1/24:** 
+
+ENGLISH:
+- [] Notes:
+    - [x] [[The Emigree - Context]]
+    - [] [[The Emigree - Poem]]
 
