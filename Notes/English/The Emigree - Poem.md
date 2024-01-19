@@ -2,7 +2,8 @@
 id: The Emigree - Poem
 aliases:
   - The Emigree - Poem
-tags: []
+tags:
+  - English
 ---
 
 # The Emigree - Poem
