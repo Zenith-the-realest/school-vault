@@ -15,3 +15,6 @@ tags:
 - She travelled widely in **Russia and Easter Europe.**
 - Her poetry often focuses on *foreign cultures*, and she works as a poet, lecturer and translator.
 - "The Emigree" is taken from the book *Thinking of Skins: New and Selected Poems*, a group of poems focusing on political issues.
+
+# **References:**
+[[The Emigree - Poem]]

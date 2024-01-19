@@ -7,7 +7,6 @@ tags:
 ---
 
 202401061651
-Subject: #English
 
 
 # London - Context

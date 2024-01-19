@@ -5,7 +5,7 @@ aliases:
 tags:
   - English
 ---
-
+202401191826
 # The Emigree - Poem
 
 ## What is an "emigree"?
@@ -26,3 +26,5 @@ The structure of the poem is **chaotic: There is no rhyme or regular rhythm, and
 The sentences here continue onto separate lines; as well as enjabment, there is also caesura in "*There once was a country **...** I left it is as a child*" This *slows down the pace of the poem,* which forces the reader to stop and think.
 
 >The chaotic structure of the poem reflects the chaos of the plce the emigree loves, and the ***lack of power she has*** in not being able to go there.
+
+# **References**
