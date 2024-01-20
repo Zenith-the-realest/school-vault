@@ -40,5 +40,7 @@ However, the stanza length can be referred to as a structure; it usually follows
 >*My city hides behind me. They mutter death,* 
 >*and my shadow falls as evidence of sunlight.* 
 
+The two full stops suggest **powerlessness and confinement** - the punctuation stops the reader, but this *negative imagery* is stopped 
+
 # **References**
 [[The Emigree - Context]]

@@ -97,7 +97,8 @@ WEDNESDAY **16/1/24:**
     - [x] [[Corrosion]]
 
 THURSDAY **17/1/24:** 
-- [] ENGLISH:
+- [ ] ENGLISH:
     - [>] Notes:
         - [x] [[The Emigree - Context]]
-        - [] [[The Emigree - Poem]]
+        - [ ] [[The Emigree - Poem]]
+
