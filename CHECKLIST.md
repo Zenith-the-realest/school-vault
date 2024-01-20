@@ -1,7 +1,8 @@
 ---
 id: CHECKLIST
 aliases: []
-tags: []
+tags:
+  - CHECKLIST
 ---
 
 
@@ -72,7 +73,7 @@ SPANISH:
 SATURDAY **13/1/24:** 
 
 ENGLISH:
-- [x] Notes:
+- [>] Notes:
     - [x] [[Remains - Poem]]
     - [x] [[Remains - Context]]
     - [x] [[Exposure - Context]] (*finished 14/1/24*)
@@ -82,13 +83,12 @@ ENGLISH:
 WEDNESDAY **16/1/24:**
 
 CHEMISTRY:
-- [x] Notes:
+- [>] Notes:
     - [x] [[Corrosion]]
 
 THURSDAY **17/1/24:** 
-
 ENGLISH:
-- [] Notes:
+- [>] Notes:
     - [x] [[The Emigree - Context]]
     - [] [[The Emigree - Poem]]
 

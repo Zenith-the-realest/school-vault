@@ -41,7 +41,7 @@ This rhyme scheme remains for the entire poem, its repetitive nature reflecting 
 
 ## Biblical imagery:
 
-Owen describes the distant gunfire as a "dull rumour of some other war." This could be the soldiers thinking that they are **detached form whatever battle is occurring elsewhere,** as they are attempting to survive the harsh weather conditions. However, this could also be a biblical allusion: In Matthew 24, jesus mentions "you will hear of wars and rumours of wars", his point being that **the end of the world will come with no one's notice.** However, the point that Owen's reference makes is that **the end of the world has already come for the freezing soldiers.** 
+Owen describes the distant gunfire as a "dull rumour of some other war." This could be the soldiers thinking that they are **detached form whatever battle is occurring elsewhere,** as they are attempting to survive the harsh weather conditions. However, this could also be a biblical allusion: In Matthew 24, Jesus mentions "you will hear of wars and rumours of wars", his point being that **the end of the world will come with no one's notice.** However, the point that Owen's reference makes is that **the end of the world has already come for the freezing soldiers.** 
 
 ## Personification:
 
@@ -76,7 +76,6 @@ The sinister sound created by this sibilance could mean:
 - The sound of the shivering soldiers.
 
 ## Caesura:
-
 >*"Slowly our ghosts drag home: glimpsing the sunk fires,glozed*
 >*With crusted dark-red jewels; crickets jingle there;*
 >*For hours the innocent mice rejoice:the house is theres;*
