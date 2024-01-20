@@ -85,8 +85,8 @@ SATURDAY **13/1/24:**
     - [>] Notes:
         - [x] [[Remains - Poem]]
         - [x] [[Remains - Context]]
-        - [x] [[Exposure - Context]] (*finished 14/1/24*)
-    - [x] [[Exposure - Poem]] (*finished 14/1/24*)
+        - [x] [[Exposure - Context]] *finished 14/1/24*
+    - [x] [[Exposure - Poem]] *finished 14/1/24*
 
 
 WEDNESDAY **16/1/24:**
@@ -97,8 +97,8 @@ WEDNESDAY **16/1/24:**
     - [x] [[Corrosion]]
 
 THURSDAY **17/1/24:** 
-- [ ] ENGLISH:
+- [x] ENGLISH:
     - [>] Notes:
         - [x] [[The Emigree - Context]]
-        - [x] [[The Emigree - Poem]]
+        - [x] [[The Emigree - Poem]] *finished 20/1/24* 
 
