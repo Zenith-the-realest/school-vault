@@ -62,7 +62,7 @@ WEDNESDAY **10/1/24:**
 THURSDAY **11/1/24:** 
 
 CHEMISTRY:
-- Notes on:
+- [>] Notes on:
   - [x] [[Separation of Metals from Metal Oxides]]
 
 FRIDAY **12/1/24:** 
@@ -88,9 +88,7 @@ SATURDAY **13/1/24:**
         - [x] [[Exposure - Context]] *finished 14/1/24*
     - [x] [[Exposure - Poem]] *finished 14/1/24*
 
-
 WEDNESDAY **16/1/24:**
-
 
 - [x] CHEMISTRY:
     - [>] Notes:

@@ -70,5 +70,20 @@ Two things are made clear by this model:
     - The atom is **mostly empty space.**
     - Most of the mass of the atom is **concentrated in its nucleus.** 
 
+# Niels Bohr:
+
+## What was the issue with Rutherford's model?
+
+The issue with Rutherford's model was that eventually, electrons would spiral inwards and hit the nucleus. This means that a new model had to be made.
+
+## What was Bohr's model?
+
+Bohr's model suggested that electrons can only **move in fixed orbits** around the nucleus.
+
+
+# How big are atoms?
+
+Atoms are $10\times 10^{-10}m$ in size.
+
 # **References:** 
 
