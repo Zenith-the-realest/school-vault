@@ -38,5 +38,37 @@ In **1897,** a scientist called **J.J Thomson** was investigating *rays given ou
 
 ## What did he discover?
 
-He discovered that cathode rays were made of particles that had *less than **one-thousandth** the mass of a hydrogen atom.* He called this particle a **electron,** and because it was so small, it must have come from *within* an atom.   
+He discovered that cathode rays were made of particles that had *less than **one-thousandth** the mass of a hydrogen atom.* He called this particle an **electron,** and because it was so small, it must have come from *within* an atom. He also worked out the **charge of an electron is negative (-)**.
+
+## What ideas did he have to make sense of?
+
+He had to make sense of the ideas that:
+    - An atom contains **negative** electrons.
+    - Overall, atoms have **no** electrical charge. They are *neutral.* 
+## What was his model of the atom?
+
+In **1904,** Thomson suggested his new model, which he dubbed the **plum pudding model.** . He said that the atom consisted of a *positive mass,* with *negative electrons* embedded into them. The structure might be ***solid, or like a cloud.***  
+
+# Ernest Rutherford:
+
+In **1899,** Ernest Rutherford discovered that some materials emit particles, which he called *alpha particles*, which had a **positive charge.**  
+
+## What did Rutherford do with his discovery?
+He decided to conduct an experiment where he ***fired alpha particles at a piece of gold foil.***
+
+### What were the results of this discovery?
+
+The experiment resulted in most of the particles passing through, but some particles were **deflected,** and even fewer were ***reflected.*** This was an issue, because if the plum pudding model were to hold true, the particles would have passed right through.
+
+## What was Rutherford's model?
+
+As a result of his experiments, Rutherford proposed a new model:
+
+>Rutherford's model, dubbed the *nuclear model*, suggested that an atom was made of a **tiny,positively charged nucleus** that had electrons orbiting around it.
+
+Two things are made clear by this model:
+    - The atom is **mostly empty space.**
+    - Most of the mass of the atom is **concentrated in its nucleus.** 
+
 # **References:** 
+
