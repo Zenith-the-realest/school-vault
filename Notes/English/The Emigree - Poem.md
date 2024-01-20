@@ -72,6 +72,8 @@ Some imagery of the poem is both ***positive and negative:***
 
 >*"Branded by an impression of sunlight"* 
 
+The juxtaposition of negative (*"branded"*) and positive (*"sunlight"*) conveys the conflict the reader feels between her love of her home and the pain of being unable to go there.
+
 
 # **References**
 [[The Emigree - Context]]
