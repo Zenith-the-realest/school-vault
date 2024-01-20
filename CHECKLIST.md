@@ -55,8 +55,8 @@ SUNDAY **7/1/24:**
         - [x] The Prelude (*continuing 9/1/24*)
 
 WEDNESDAY **10/1/24:** 
-- [x] ENGLISH:
-  - [x] Notes:
+ENGLISH:
+  - [>] Notes:
       - [x] Romanticism
 
 THURSDAY **11/1/24:** 
