@@ -102,3 +102,8 @@ THURSDAY **17/1/24:**
         - [x] [[The Emigree - Context]]
         - [x] [[The Emigree - Poem]] *finished 20/1/24* 
 
+SATURDAY **20/1/24:**
+- [ ] PHYSICS:
+    - [>] Notes:
+        - [ ] P1 Notes
+
