@@ -40,7 +40,33 @@ However, the stanza length can be referred to as a structure; it usually follows
 >*My city hides behind me. They mutter death,* 
 >*and my shadow falls as evidence of sunlight.* 
 
-The two full stops suggest **powerlessness and confinement** - the punctuation stops the reader, but this *negative imagery* is stopped 
+The two full stops suggest **powerlessness and confinement** - the punctuation stops the reader, but this *negative imagery* of these structural choices are contrasted by the *positive imagery* within the poem.
+
+# Language:
+
+## The positive imagery of her homeland:
+
+The poem makes sure to repeat images of sunlight, such as "*sunlight-clear*" and "*it tastes of sunlight*", symbolising *happiness and positivity.* This emphasises the fact that the speaker is very positive about the place she writes about.
+
+In addition, she describes the memory of her home as a "*bright,filled paperweight*", showing that she holds it in importance, but the description of it as a paperweight shows that it **holds the speaker still, offering *stability and positivity.*** 
+
+## Personification:
+
+In the final stanzas, there are several examples of *personification:* 
+
+>*I have no passport, there's no way back at all* 
+>*but my city comes to me in its own white plane.* 
+>*I comb its hair and love its shining eyes.* 
+>*My city takes me dancing through the city*
+>*of walls. They accuse me of absence, they circle me.* 
+>*They accuse me of absence, they circle me.* 
+>*They accuse me of being dark in their free city.* 
+>*My city hides behind me. They mutter death,* 
+>*and my shadow falls as evidence of sunlight.* 
+
+The city is described as "*sick*", then it "*comes to me*", "*lies down*", and "*takes me dancing*", showing that the speaker has a **loving relationship with the place.** 
+
+
 
 # **References**
 [[The Emigree - Context]]
