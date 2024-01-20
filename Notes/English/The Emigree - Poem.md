@@ -64,8 +64,13 @@ In the final stanzas, there are several examples of *personification:*
 >*My city hides behind me. They mutter death,* 
 >*and my shadow falls as evidence of sunlight.* 
 
-The city is described as "*sick*", then it "*comes to me*", "*lies down*", and "*takes me dancing*", showing that the speaker has a **loving relationship with the place.** 
+The city is described as *"sick"*, then it *"comes to me"*, *"lies down"*, and *"takes me dancing"*, showing that the speaker has a **loving relationship with the place.** 
 
+## The contrasting imagery:
+
+Some imagery of the poem is both ***positive and negative:*** 
+
+>*"Branded by an impression of sunlight"* 
 
 
 # **References**
