@@ -10,13 +10,6 @@ tags:
 
 # The Particle Model
 
-
-
-
-
-
-# The Particle Model
-
 # Democritus and Leucippus:
 
 A long time ago, people wondered what things were made of. Two greek philosophers, **Democritus and Leucippus,** thought that at some point, you would no longer be able to cut an object down, and they called this indivisible object an "atom", from the Greek *"atomos."*
