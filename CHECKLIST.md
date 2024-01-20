@@ -9,27 +9,36 @@ tags:
  WEDNESDAY **27/12/23:**
 
 - [x] SPANISH:
-	- [x] Christmas booklet  
+  - [>] Homework:
+        - [x] Christmas booklet  
 
 - [x] MATHS:
-	- [x] One pinpoint booklet
+    - [>] Homework:
+        - [x] One pinpoint booklet
 
 
 THURSDAY **28/12/23:**
 - [x] BIOLOGY:
-	- [x] IGCSE paper
+    - [>] Homework:
+        - [x] IGCSE paper
+
 - [x] HISTORY:
-	- [x] Plan out exam question
-	- [x] Do exam question
+    - [>] Homework:
+        - [x] Plan out exam question
+        - [x] Do exam question
 - [x] MATHS:
-	- [x] Do final pinpoint booklet
+    - [>] Homework:
+        - [x] Do final pinpoint booklet
 
 FRIDAY **29/12/23:**
 
 - [x] CHEMISTRY:
-	- [x] Do chemistry sample paper
+    - [>] Homework:
+        - [x] Do chemistry sample paper
 - [x] PHYSICS:
-	- [x] Do physics past paper
+  - [>] Homework:
+        - [x] Do physics past paper
+
 
 WEDNESDAY **2/1/24:**
 
@@ -63,33 +72,34 @@ MATHS:
     - [x] Growth and decay
     - [x] Graphs of direct and inverse proportion
 
-SPANISH:
-  - [x] Homework:
-    - [x] Kerboodle (10.1H)
-    - [x] Booklet (10.1H) *finished 13/1/24* 
-    - [x] Quizlet (11.1G)
-    - [x] Writing (Kerboodle 10.1H) *finished 13/1/24* 
+- [x] SPANISH:
+      - [>] Homework:
+        - [x] Kerboodle (10.1H)
+        - [x] Booklet (10.1H) *finished 13/1/24* 
+        - [x] Quizlet (11.1G)
+        - [x] Writing (Kerboodle 10.1H) *finished 13/1/24* 
 
 SATURDAY **13/1/24:** 
 
-ENGLISH:
-- [>] Notes:
-    - [x] [[Remains - Poem]]
-    - [x] [[Remains - Context]]
-    - [x] [[Exposure - Context]] (*finished 14/1/24*)
+- [x] ENGLISH:
+    - [>] Notes:
+        - [x] [[Remains - Poem]]
+        - [x] [[Remains - Context]]
+        - [x] [[Exposure - Context]] (*finished 14/1/24*)
     - [x] [[Exposure - Poem]] (*finished 14/1/24*)
 
 
 WEDNESDAY **16/1/24:**
 
-CHEMISTRY:
-- [>] Notes:
+
+- [x] CHEMISTRY:
+    - [>] Notes:
     - [x] [[Corrosion]]
 
 THURSDAY **17/1/24:** 
-ENGLISH:
-- [>] Notes:
-    - [x] [[The Emigree - Context]]
-    - [] [[The Emigree - Poem]]
+- [] ENGLISH:
+    - [>] Notes:
+        - [x] [[The Emigree - Context]]
+        - [] [[The Emigree - Poem]]
 
 
