@@ -101,5 +101,3 @@ THURSDAY **17/1/24:**
     - [>] Notes:
         - [x] [[The Emigree - Context]]
         - [] [[The Emigree - Poem]]
-
-real

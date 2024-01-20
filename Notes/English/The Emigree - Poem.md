@@ -27,4 +27,18 @@ The sentences here continue onto separate lines; as well as enjabment, there is 
 
 >The chaotic structure of the poem reflects the chaos of the plce the emigree loves, and the ***lack of power she has*** in not being able to go there.
 
+## Stanza length:
+
+However, the stanza length can be referred to as a structure; it usually follows **8 stanzas,** showing how the poet tries to enforce order on what she experienced. However, the last stanza is 9, showing how her *lack of power* in letting her memories go. 
+
+## Caesura in the final stanza:
+
+>*My city takes me dancing through the city*
+>*of walls. They accuse me of absence, they circle me.* 
+>*They accuse me of absence, they circle me.* 
+>*They accuse me of being dark in their free city.* 
+>*My city hides behind me. They mutter death,* 
+>*and my shadow falls as evidence of sunlight.* 
+
 # **References**
+[[The Emigree - Context]]
