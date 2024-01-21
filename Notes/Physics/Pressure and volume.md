@@ -1,0 +1,27 @@
+---
+id: Pressure and volume
+aliases:
+  - Pressure and volume
+tags: []
+---
+
+202401212033
+# Pressure and volume
+
+# How are pressure and volume related?
+
+Pressure and volume are **inversely related.** This means that as one is increased, the other is halved.
+
+- For example, if pressure is **doubled,** volume is **halved,** and *vice versa.* 
+
+## Why is this the case?
+
+This is the case because if the volume is halved, for example, there is **less room for the particles to collide** with each other **outside of the walls,** meaning that if the volume is halved, the collisions with the ***walls*** double, hence **doubling the pressure** 
+
+### How do you calculate using pressure and volume?
+
+The formula for pressure and volume (given that **temperature is constant**) is: $$P_1 V_1 = P_2 V_2$$
+
+# How does **doing work** on a gas affect temperature?
+
+Saying that **"work is done"** or that you are **"doing work"** on something simply means that you are **transferring energy to it**.
