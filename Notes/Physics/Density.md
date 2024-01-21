@@ -1,9 +1,10 @@
 ---
 id: Density
 aliases:
-  - Density
   - Density and conservation of mass
-tags: []
+tags:
+  - Physics
+  - P1
 ---
 
 202401202100
