@@ -28,6 +28,6 @@ There are two types of specific latent heat:
 
 Specific latent heat is calculated via the equation:
 
-thermal energy for a change in state (J) = mass (kg) * specific latent heat (J/kg)
+**thermal energy for a change in state (J) = mass (kg) * specific latent heat (J/kg)**
 
-or E = ml
+or **E = ml**
