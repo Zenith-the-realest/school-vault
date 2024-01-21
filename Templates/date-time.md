@@ -1,8 +1,1 @@
 {{date}}{{time}}
-
-
-
-
-
-
-# **References**
