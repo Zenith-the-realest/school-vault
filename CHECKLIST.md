@@ -91,8 +91,8 @@ SATURDAY **13/1/24:**
 WEDNESDAY **16/1/24:**
 
 - [x] CHEMISTRY:
-    - [>] Notes:
-    - [x] [[Corrosion]]
+    - [>] Notes
+        - [x] [[Corrosion]]
 
 THURSDAY **17/1/24:** 
 - [x] ENGLISH:
