@@ -103,5 +103,11 @@ THURSDAY **17/1/24:**
 SATURDAY **20/1/24:**
 - [ ] PHYSICS:
     - [>] Notes:
-        - [ ] P1 Notes
+        - [ ] P1 Notes *in progress to 22/1/24* 
 
+MONDAY **22/1/24:** 
+- [x] HISTORY:
+    - [>] Homework:
+        - [x] Finish table of "What methods were used to carry out the Final Solution?"
+        - [x] Finish table of "Who was responsible for the Final Solution?"
+        
