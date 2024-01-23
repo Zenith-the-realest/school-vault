@@ -2,7 +2,9 @@
 id: Atmospheric pressure
 aliases:
   - Atmospheric pressure
-tags: []
+tags:
+  - Physics
+  - P1
 ---
 
 202401212136

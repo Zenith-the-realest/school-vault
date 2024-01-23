@@ -2,7 +2,9 @@
 id: Pressure and volume
 aliases:
   - Pressure and volume
-tags: []
+tags:
+  - Physics
+  - P1
 ---
 
 202401212033
