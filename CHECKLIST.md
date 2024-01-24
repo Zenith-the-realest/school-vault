@@ -103,7 +103,7 @@ THURSDAY **17/1/24:**
 SATURDAY **20/1/24:**
 - [ ] PHYSICS:
     - [>] Notes:
-        - [ ] P1 Notes *in progress to 22/1/24* 
+        - [ ] P1 Notes *in progress to 24/1/24* 
 
 MONDAY **22/1/24:** 
 - [x] HISTORY:
