@@ -2,7 +2,9 @@
 id: Distance-time graphs
 aliases:
   - Distance-time graphs
-tags: []
+tags:
+  - Physics
+  - P2
 ---
 
 # Distance-time graphs
