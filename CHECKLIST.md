@@ -75,9 +75,9 @@ MATHS:
 - [x] SPANISH:
       - [>] Homework:
         - [x] Kerboodle (10.1H)
-        - [x] Booklet (10.1H) *finished 13/1/24* 
+        - [x] Booklet (10.1H) *finished 2024-01-13* 
         - [x] Quizlet (11.1G)
-        - [x] Writing (Kerboodle 10.1H) *finished 13/1/24* 
+        - [x] Writing (Kerboodle 10.1H) *finished 2024-01-13* 
 
 SATURDAY **13/1/24:** 
 
@@ -98,12 +98,12 @@ THURSDAY **17/1/24:**
 - [x] ENGLISH:
     - [>] Notes:
         - [x] [[The Emigree - Context]]
-        - [x] [[The Emigree - Poem]] *finished 20/1/24* 
+        - [x] [[The Emigree - Poem]] *finished 2024-01-26* 
 
 SATURDAY **20/1/24:**
 - [ ] PHYSICS:
     - [>] Notes:
-        - [ ] P1 Notes *in progress to 24/1/24* 
+        - [x] P1 Notes *finished 2024-01-26* 
 
 MONDAY **22/1/24:** 
 - [x] HISTORY:
