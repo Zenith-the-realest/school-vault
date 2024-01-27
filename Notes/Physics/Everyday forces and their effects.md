@@ -1,5 +1,5 @@
 ---
-id: 1706359759-AWCT
+id: Everyday forces and their effects
 aliases:
   - Everyday forces and their effects
 tags:
@@ -16,3 +16,5 @@ As an example, I will use **jumping out of a plane.** When you jump out, you acc
 # How do you explain the motion of rockets?
 
 When a rocket takes off, there is a resultant force that produces *acceleration.* This is caused by the burning fuel, which pushes gas out of the bottom of the rocket. The gas pushing on the rocket and the rocket pushing on the gases is another example of Newton's Third Law.
+
+When the force of the gas on the rocket is bigger than the rocket's force on the Earth, the rocket will accelerate.

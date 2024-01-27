@@ -111,3 +111,12 @@ MONDAY **22/1/24:**
         - [x] Finish table of "What methods were used to carry out the Final Solution?"
         - [x] Finish table of "Who was responsible for the Final Solution?"
 
+
+SATURDAY **2024-01-27:**
+
+- [ ] Physics:
+    - [>] Notes:
+        - [ ] P2 Notes
+        
+
+
