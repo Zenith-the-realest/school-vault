@@ -21,6 +21,6 @@ An equation of motion are equations that **include *velocities, acceleration, di
 
 Kinetic energy can be calculated with
 
-KE = (1/2) x mass x speed^2
+KE = (1/2) x mass x (speed)^2
 
 
