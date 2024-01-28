@@ -66,6 +66,7 @@ The horizon’s utmost boundary; far above
 Was nothing but the stars and the grey sky.
 
 Here the pride of man is again mentioned, but the simile *"like one who rows, proud of his skill"* shows that he is uncertain, but the use of *chosen* shows the poet's arrogance; he is nn control, heading towards the point he has chosen to. 
+
 ## The poet's arrogance:
 
 The poet uses personification throughout the poem, but there is a visible lack of it being used to **to describe the mountain,** it is now labelled an "it". The previous moments had the poet hold power, and was able to define them as he chose, but loses that power in the cliff face.
