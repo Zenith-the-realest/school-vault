@@ -7,7 +7,7 @@ tags:
   - Physics
   - P1
 ---
-202401211607
+202401211607 
 
 # Specific Latent Heat:
 
@@ -16,7 +16,7 @@ tags:
 When substances change state, they either **take in or release** energy from the surroundings: For example, when water evaporates to form water vapour, the energy is transferred from the **thermal store** of the *surroundings* to the water. This also means that when water vapour condenses, the energy is transferred from the ***water to the surroundings.***
 # Why does temperature not change while state changes?
 
-Temperature does not change while state changes, because the energy does not go into the **thermal store of the object,** but rather into ***breaking the bonds.*** The amount of energy required for this to change the state is called the **specific latent heat.** 
+Temperature does  not change while state changes, because the energy does not go into the **thermal store of the object,** but rather into ***breaking the bonds.*** The amount of energy required for this to change the state is called the **specific latent heat.** 
 
 # What is specific latent heat?
 
