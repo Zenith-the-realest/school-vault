@@ -6,7 +6,7 @@ tags:
   - Physics
   - P2
 ---
-
+202401271014
 # Equations of motion and kinetic energy
 
 # What is an equation of motion?

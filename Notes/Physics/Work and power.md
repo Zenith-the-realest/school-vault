@@ -6,7 +6,7 @@ tags:
   - Physics
   - P2
 ---
-
+202401272016
 # Work and power
 
 

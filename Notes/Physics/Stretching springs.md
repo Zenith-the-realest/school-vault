@@ -6,7 +6,7 @@ tags:
   - Physics
   - P2
 ---
-
+202401281620
 # Stretching springs
 
 # How do forces change shapes of objects?

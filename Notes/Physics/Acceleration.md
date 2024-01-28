@@ -6,6 +6,7 @@ tags:
   - Physics
   - P2
 ---
+202401261854
 
 # Acceleration
 
@@ -19,5 +20,5 @@ Acceleration = (final velocity - initial velocity) / time
 
 ## What is the difference between positive and negative acceleration?
 
-As *negative or positive velocity indicate a **backward or forward movement in direction,***, positive and negative acceleration **indicates speeding up or slowing down.**  
+As *negative or positive velocity indicate a **backward or forward movement in direction,*** positive and negative acceleration **indicates speeding up or slowing down.**  
 

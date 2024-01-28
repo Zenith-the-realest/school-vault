@@ -6,7 +6,7 @@ tags:
   - Physics
   - P2
 ---
-
+202401281644
 # Stretching materials and storing energy
 
 # How do you calculate the **energy transferred** in stretching a spring?
@@ -19,7 +19,7 @@ The energy transferred in stretching a spring is calculated via
 
 ## Rubber balloons:
 
-As you blow up a 
+As you blow up a balloon, it is at first difficult, as the **rubber is quite stiff.** At some point, it requires *less force to produce an extension,* but at the end, it is **finally stiff.** 
 
 
 

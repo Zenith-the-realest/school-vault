@@ -6,7 +6,7 @@ tags:
   - Physics
   - P2
 ---
-
+202401271319
 # Newton's Second Law
 
 # When a resultant force is not zero, what happens?

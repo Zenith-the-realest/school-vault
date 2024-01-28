@@ -6,9 +6,9 @@ tags:
   - Physics
   - P1
 ---
-
-# Gas pressure and temperature
 202401212136
+# Gas pressure and temperature
+
 
 # Why do gases exert pressure?
 

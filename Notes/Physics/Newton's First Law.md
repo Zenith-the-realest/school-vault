@@ -6,7 +6,7 @@ tags:
   - Physics
   - P2
 ---
-
+202401271229
 # Newton's First Law
 
 Newton's First Law of Motion states:
