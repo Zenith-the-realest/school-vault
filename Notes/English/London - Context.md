@@ -24,7 +24,7 @@ When Blake was born, the population of London was **760,000**. 100 years later, 
 
 Factories were created, and the conditions in these were terrible - for example, **children** were used as workers, because they were very small, and could fit in and around machinery.
 
-## The publicisation of "London":
+## The publicization of "London":
 
 London originates from Blake's **"Songs of Experience"**, a companion piece to his **"Songs of Innocence"**. The former, in which London was published, focused on a much **harsher view** of the world, of a world **corrupted by humans**. 
 
