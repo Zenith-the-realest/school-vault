@@ -23,5 +23,3 @@ A hydraulic machine is a machine that **uses liquid to transmit a force.** The m
 ## How do hydraulic machines **transmit forces?** 
 
 When you push on one of the pistons of the hydraulic machine, the **pressure is *transmittted* through the liquid** and the other piston moves.
-
-
