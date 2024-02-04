@@ -4,7 +4,7 @@ aliases:
   - Simple machines
 tags: []
 ---
-
+202401292129
 # Simple machines
 
 # What are **levers?** 
