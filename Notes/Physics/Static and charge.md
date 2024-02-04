@@ -4,7 +4,7 @@ aliases:
   - Static and charge
 tags:
   - Physics
-  - P2
+  - P3
 ---
 202402041426
 # Static and charge
