@@ -27,3 +27,11 @@ To **remove charge from an object,** you need to connect it to something that **
 
 - **Sparks** can also discharge charged objects, like a *Van der Graaf* generator, or clouds.
     - A spark is a **flow of charge (current)** through the *air.* 
+
+# How do **fields explain *static electricity?*** 
+
+Around charged objects, there are always **electric fields.** If another charged object is placed in the field, it will be **attracted or repelled,** whether they are *touching or not.*
+
+## How do you draw fields?
+
+Field lines go from **positive to negative** in the case of electric fields. The **strength of a field** is denoted by the space between the field lines.
