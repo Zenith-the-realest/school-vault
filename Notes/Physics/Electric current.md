@@ -6,6 +6,7 @@ tags:
   - Physics
   - P3
 ---
+202402052008
 
 # Electric current
 
