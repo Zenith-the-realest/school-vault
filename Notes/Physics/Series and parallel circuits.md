@@ -2,8 +2,11 @@
 id: Series and parallel circuits
 aliases:
   - Series and parallel circuits
-tags: []
+tags:
+  - Physics
+  - P3
 ---
+202402052007
 
 # Series and parallel circuits
 
