@@ -4,7 +4,7 @@ aliases:
   - Resistance
 tags:
   - Physics
-  - P2
+  - P3
 ---
 
 # Resistance
