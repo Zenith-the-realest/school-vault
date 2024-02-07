@@ -15,7 +15,7 @@ Current depends on **potential difference,** and the **resistance** of the compo
 
 Resistance is calculated via
 
-**current = potential difference / resistance** 
+**voltage / current = resistance**
 
 The original equation, known as **Ohm's Law, is written as:** 
 

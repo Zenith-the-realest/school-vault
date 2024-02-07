@@ -26,4 +26,8 @@ The equation
 
 **energy transferred (J)** = **potential difference (V)** x **charge (C)** 
 
+## How is voltage measured?
+
+Voltage is measured with a **voltmeter.** 
+
 
