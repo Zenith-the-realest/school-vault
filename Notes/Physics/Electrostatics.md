@@ -8,7 +8,7 @@ tags:
   - P3
 ---
 202402041426
-# Static and charge
+# Electrostatics
 
 # What is charge?
 
