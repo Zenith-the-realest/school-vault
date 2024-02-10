@@ -2,7 +2,9 @@
 id: Graphs of p.d. and current
 aliases:
   - Graphs of p.d. and current
-tags: []
+tags:
+  - Physics
+  - P3
 ---
 
 202402100952
