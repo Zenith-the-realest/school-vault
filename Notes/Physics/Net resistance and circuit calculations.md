@@ -14,7 +14,7 @@ tags:
 
 Net resistance is the total resistance. If the components or their arrangements are changed, the net resistance changes.
 
-> For example, imagine a lamp in the circuit. If another lamp is added in **series,** the current will *decrease,* and the net resistance *increases.* 
+> For example, imagine a lamp in the circuit. If another lamp is added in **series,** the current will *not change (current is always the same in a series circuit)* and the net resistance *increases.* 
 > However, if you added another lamp in **parallel,** the total current *increases,* and the net resistance *decreases.* 
 # How are series circuits analysed?
 
