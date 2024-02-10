@@ -1,13 +1,5 @@
----
-id: Graphs of p.d. and current
-aliases:
-  - Graphs of p.d. and current
-tags:
-  - Physics
-  - P3
----
 202402100952
-# Graphs of p.d and current
+# Graphs of p.d. and current
 
 # How do you get measurements for the **graphs of p.d and current?**
 
