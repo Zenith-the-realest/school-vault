@@ -2,6 +2,7 @@
 id: Graphs of p.d. and current
 aliases:
   - Graphs of p.d. and current
+  - Graphs of p.d and current
 tags:
   - Physics
   - P3
@@ -36,4 +37,3 @@ For a lamp, it is similar to an **S shape.** This is because Ohm's Law only appl
 ## Diode:
 
 Diodes are components that **only let current flow one way.** This is reflected in its characteristic graph, due to the fact that initially, while **potential difference is negative, there is no current**, until it is positive, at which point the **current suddenly increases.**
-aliases
