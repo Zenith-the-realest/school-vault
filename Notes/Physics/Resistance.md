@@ -11,7 +11,7 @@ tags:
 
 # What does **current depend on?** 
 
-Current depends on **potential difference,** and the **resistance** of the components. Resistance is measured in ohms(Ω)
+Current depends on **potential difference,** and the **resistance** of the components. Resistance is measured in **ohms(Ω)**
 
 Resistance is calculated via
 
