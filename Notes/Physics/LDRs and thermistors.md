@@ -12,7 +12,7 @@ tags:
 
 # What is a **thermistor?** 
 
-A thermistor is a component whose resistance changes with **temperature.** They can come in different shapes and sizes?
+A thermistor is a component whose resistance changes with **temperature.** They can come in different shapes and sizes.
 
 ## How does the resistance of a thermistor **change with temperature?** 
 
@@ -20,4 +20,10 @@ If you place a thermistor in cold water, initially, the **resistance will be hig
 
 > This means that **as the temperature of a thermistor increases, the resistance *decreases.*** 
 
+# What is an **LDR?** 
 
+An LDR is a resistor whose resistance changes with **light intensity,** and also come in different shapes and sizes
+
+## How does the resistance of an LDR **change with light intensity?** 
+
+As light intensity **increases**, the resistance of an LDR ***decreases.*** 
