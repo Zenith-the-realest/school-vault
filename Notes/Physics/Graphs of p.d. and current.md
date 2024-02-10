@@ -18,7 +18,7 @@ tags:
 You can:
 
 - Plot a "**characteristic graph**" (graph of p.d. and current)
-- You can calculate resistance from each pair of measurements..
+- You can calculate resistance from each pair of measurements.
 
 # **Characteristic graphs:** 
 
