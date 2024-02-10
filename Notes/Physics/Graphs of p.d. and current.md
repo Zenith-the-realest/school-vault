@@ -1,9 +1,17 @@
+---
+id: Graphs of p.d. and current
+aliases:
+  - Graphs of p.d. and current
+tags: []
+---
+
 202402100952
 # Graphs of p.d. and current
 
 # How do you get measurements for the **graphs of p.d and current?**
 
 - Graphs of p.d. and current are called **characteristic graphs.** Data is collected by measuring the current flowing at **different potential differences.** 
+
 
 ##  What can you do with these measurements?
 
