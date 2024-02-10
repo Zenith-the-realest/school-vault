@@ -13,7 +13,7 @@ tags:
 
 - Graphs of p.d. and current are called **characteristic graphs.** Data is collected by measuring the current flowing at **different potential differences.** 
 
-## What can you do with these measurements?
+##  What can you do with these measurements?
 
 You can:
 
@@ -36,3 +36,4 @@ For a lamp, it is similar to an **S shape.** This is because Ohm's Law only appl
 ## Diode:
 
 Diodes are components that **only let current flow one way.** This is reflected in its characteristic graph, due to the fact that initially, while **potential difference is negative, there is no current**, until it is positive, at which point the **current suddenly increases.**
+aliases
