@@ -2,7 +2,6 @@
 id: Electrostatics
 aliases:
   - Electrostatics
-  - Static and charge
 tags:
   - Physics
   - P3
