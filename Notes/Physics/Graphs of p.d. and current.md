@@ -2,7 +2,6 @@
 id: Graphs of p.d. and current
 aliases:
   - Graphs of p.d. and current
-  - Graphs of p.d and current
 tags:
   - Physics
   - P3
