@@ -34,7 +34,7 @@ It took a long time for people to accept his ideas.
 
 # JJ Thomson:
 
-In **1897,** a scientist called **J.J Thomson** was investigating *rays given out by hot metals, but he was not **investigating atoms.***
+In **1897,** a scientist called **J.J Thomson** was investigating *rays given out by hot metals, but he was not ***investigating atoms.***
 
 ## What did he discover?
 
