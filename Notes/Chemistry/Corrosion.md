@@ -6,9 +6,6 @@ tags:
   - Chemistry
   - C6
 ---
-202401161951
-Subject: #Chemistry, #C6
-
 
 # Corrosion
 
@@ -65,8 +62,3 @@ This is a barrier method because it **forms a protective coating,** and also a s
 # **References**
 
 [[Separation of Metals from Metal Oxides]]
-
-the difference is
-
-theres just two guys
-

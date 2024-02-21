@@ -6,8 +6,7 @@ tags:
   - Chemistry
   - C6
 ---
-202401111859
-Subject: #Chemistry, #C6
+
 
 
 # Separation of Metals from Metal Oxides
@@ -43,3 +42,5 @@ Carbon reduction is essentially when carbon **takes the element from the metal,*
 >*This can only be done when the metal is **less** reactive than carbon.* 
 ![reactivitySeries.png|center|150](Files/reactivitySeries.png)
 # **References**
+
+[[Corrosion]]
