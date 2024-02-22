@@ -52,13 +52,14 @@ Barrier methods **prevent oxygen and water from** touching the iron. Examples in
 
 ### Sacrificial methods:
 
-Sacrificial methods **add a more reactive metal to the iron.
+Sacrificial methods **add a more reactive metal to the iron.**
 
 - For iron, you could add **aluminium or zinc,** meaning if the object is exposed to oxygen, the more reactive metal will corrode instead of the iron.
 
 >An example that uses ***both methods*** is called **galvanising.** This involves coating the metal in a layer of zinc.
 
 This is a barrier method because it **forms a protective coating,** and also a sacrifical method because that even when the iron is exposed, the zinc will react with any oxygen.
+
 # **References**
 
 [[Separation of Metals from Metal Oxides]]
