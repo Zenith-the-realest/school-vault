@@ -66,3 +66,5 @@ For the Haber Process, a **lower temperature** is required to favour the **forwa
 However, there is a problem: In order to assure a high rate of reaction, we need a **higher temperature,** which is why a **compromise temperature of 450°C is chosen.** There is also the fact that a higher temperature would mean a higher cost, which is detrimental.
 
 ## Pressure:
+
+In order to have a high % yield of ammonia, we want a higher pressure (because there are fewer molecules of product than reactant). However, there are also issues of cost and safety, as high pressures can be dangerous. This is why a pressure of 200 atm is chosen.
