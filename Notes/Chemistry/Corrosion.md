@@ -36,7 +36,7 @@ Rusting requires **water, iron, and oxygen** to take place.
 >However, the only reason that iron **decreases** is because the rust *flakes off,* exposing the non-corroded metal.
 >However, in most cases, such as aluminium corroding to form **aluminium oxide,** the metal will not flake away, and the **aluminium oxide forms a *protective layer.*** 
 
-## How do we ***prevent*** corrosion?
+## How do we ***prevent*** rusting?
 
 There are two categories of methods that prevent corrosion: **barrier and sacrificial.** 
 
