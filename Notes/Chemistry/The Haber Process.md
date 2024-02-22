@@ -48,3 +48,21 @@ It is an **exothermic** reaction, and the two way reaction arrow means it is **r
 - This mixture of the nitrogen, hydrogen and ammonia is passed into a condenser, where the ammonia condenses into liquid ammonia.
         - However, the nitrogen and hydrogen do **not** condense, because they have *higher boiling points* than ammonia.
 - The uncondensed nitrogen and hydrogen is then recycled back around to the reaction vessel, where the cycle repeats.
+
+# Why the conditions?
+
+There are three things that are thought of when it comes to conditions for reactions:
+
+- % yield
+- Rate of reaction
+- Cost
+
+Each of these play a part in why the conditions of the Haber Process are why they are.
+
+## Temperature:
+
+For the Haber Process, a **lower temperature** is required to favour the **forward reaction,** which is the one that creates the ammonia. This **increases the % yield.** 
+
+However, there is a problem: In order to assure a high rate of reaction, we need a **higher temperature,** which is why a **compromise temperature of 450°C is chosen.** There is also the fact that a higher temperature would mean a higher cost, which is detrimental.
+
+## Pressure:
