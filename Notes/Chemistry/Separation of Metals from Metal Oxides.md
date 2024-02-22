@@ -7,8 +7,6 @@ tags:
   - C6
 ---
 
-
-
 # Separation of Metals from Metal Oxides
 
 > *Metals are usually found in **oxide form**, meaning we have to extract the metal from that*.
