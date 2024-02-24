@@ -42,11 +42,11 @@ At the anode, the bromine is **oxidised,** as it *loses electrons.*
 The half equation is $2Br^-\rightarrow Br_2 + 2e^-$
 
 At the cathode, the lead is **reduced,** as it *gains electrons.* 
-The half equation is $Pb^{2+} + 2e^-\rightarrow Pb
+The half equation is $Pb^{2+} + 2e^-\rightarrow Pb$
 
 ### What actually happens to the electrons?
 
 The extra electrons from the bromine are transported from the anode along the wire to the cathode. Here, they **give their electrons to the lead, making it *neutral***.
 
 # **References:** 
-[[Electrolysis of Aluminium Oxide|Electrolysis of Metal Oxides]]
+[[Electrolysis of Aluminium Oxide]]
