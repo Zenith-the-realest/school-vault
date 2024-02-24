@@ -49,4 +49,4 @@ The half equation is $Pb^{2+} + 2e^-\rightarrow Pb
 The extra electrons from the bromine are transported from the anode along the wire to the cathode. Here, they **give their electrons to the lead, making it *neutral***.
 
 # **References:** 
-[[Electrolysis of Metal Oxides|Electrolysis of Metal Oxides]]
+[[Electrolysis of Aluminium Oxide|Electrolysis of Metal Oxides]]

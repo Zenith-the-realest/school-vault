@@ -36,9 +36,11 @@ This means we have to remove its oxide (or whatever the metal is bound to.) Ther
 Carbon reduction is essentially when carbon **takes the element from the metal,** and the pure metal is left behind. An example of this is:
 
 - $2CuO + C \rightarrow 2Cu + CO_2$
-
 >*This can only be done when the metal is **less** reactive than carbon.* 
 ![reactivitySeries.png|center|150](Files/reactivitySeries.png)
-# **References**
+## Electrolysis:
 
+Electrolysis is the use of electricity to split an electrolyte into its pure elements.
+# **References**
+[[Electrolysis]]
 [[Corrosion]]
