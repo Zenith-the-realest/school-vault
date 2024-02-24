@@ -63,4 +63,4 @@ This is a barrier method because it **forms a protective coating,** and also a s
 # **References**
 
 [[Separation of Metals from Metal Oxides]]
-[[Electrolysis]]
+[[Electrolysis]] / [[Electrolysis of Aluminium Oxide]] (latter is for specific example of using electrolysis on a metal more reactive than carbon)
