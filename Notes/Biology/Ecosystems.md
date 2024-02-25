@@ -57,3 +57,4 @@ A limitation of food chains is that it only shows **organisms eating *one* food 
 
 # **References:** 
 [[Photosynthesis]] - More info on how producers create energy.
+[[Biotic and Abiotic factors]] - What factors affect an ecosystem, and how so.
