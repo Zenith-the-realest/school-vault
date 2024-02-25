@@ -49,4 +49,4 @@ The way organisms depend on each other is known as **interdependence:** the inte
 
 # **References:** 
 
-[[Ecosystems]] - Explains the grand scheme of the animal population
+[[Ecosystems]] - Explains the grand scheme of the animal (and plant) population
