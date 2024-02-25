@@ -14,7 +14,7 @@ tags:
 
 - Beaker: Contains the **electrolyte -** a liquid or solution that contains ions (that are free to move)
     - When the metal is a solid, like lead bromide, it has to be **melted**,       
-        - This is because the ions in the metal($Pb^_{2+}$ and $Br^-$) need to be free to move around, which does not happen in a solid.
+        - This is because the ions in the metal($Pb^{2+}$ and $Br^-$) need to be free to move around, which does not happen in a solid.
     - However, if it is *soluble*, like $CuSO_4$, you can simply make it into a solution.
 
 - Electrodes: Solid conductors made of **metal or carbon.** The positive electrode is **the anode,** and the negative electrode is **the cathode.** 
