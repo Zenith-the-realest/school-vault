@@ -35,7 +35,7 @@ However, warm-blooded animals are less affected by this.
 
 ### Moisture level:
 
-For most plants and animals, water leads to death - for example, water is what mainly makes up blood plasma. A lack of water will cause **plants to wilt,** as water is needed for **cell turgidity,** which keeps them upright. Water is also required for **photosynthesis.** 
+For most plants and animals, lack of water leads to death - for example, water is what mainly makes up blood plasma. A lack of water will cause **plants to wilt,** as water is needed for **cell turgidity,** which keeps them upright. Water is also required for **photosynthesis.** 
 
 ### Soil pH:
 
