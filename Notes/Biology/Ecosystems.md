@@ -16,7 +16,7 @@ Ecosystems are made up of **all the living organisms and conditions in an area.*
     - The organisms in the ecosystem are the **community,** 
     - and the area which they live in is their **habitat.** 
 
-> For example, in a *pond,* the habitat is the pond itself, including the **stones, algae soil and water.** The community includes **frog, fish, insects and plants.** The total number of organisms is the *population.*
+> For example, in a *pond,* the habitat is the pond itself, including the **stones, algae soil and water.** The community includes **frog, fish, insects and plants.** The total number of organisms of each species is the *population.*
 
 # What groups can organisms be organised into?
 
@@ -57,4 +57,7 @@ A limitation of food chains is that it only shows **organisms eating *one* food 
 
 # **References:** 
 [[Photosynthesis]] - More info on how producers create energy.
+
 [[Biotic and Abiotic factors]] - What factors affect an ecosystem, and how so.
+
+[[Competition and interdependence]] - How organisms in a **population** benefit from each other.
