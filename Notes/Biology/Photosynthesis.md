@@ -34,6 +34,4 @@ It takes place in the **chloroplast.** This means that it mostly takes place in 
 - Glucose that isn't needed straight away is **converted to starch.**
     - This provides an energy store to be used at night, when the plant **cannot photosynthesise.** 
 
-# **References:** 
 
-*Backlink from [[Ecosystems]]* - Explains process of photosynthesis.
