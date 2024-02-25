@@ -42,4 +42,5 @@ For most plants and animals, water leads to death - for example, water is what m
 Soil pH affects biological activity in soil, and the availability of certain minerals the plant might need. Some plants grow better in acidic soil (ph < 7), and some grow better in alkaline soil (ph > 7).
 
 # **References:** 
+
 [[Factors affecting photosynthesis]] - Factors specific to producers and how they create their food.
