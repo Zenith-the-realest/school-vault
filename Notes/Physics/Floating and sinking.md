@@ -22,3 +22,8 @@ For the submarine to sink, the weight needs to be **increased.** Submarines have
 However, to return to the surface, the submarine has **tanks of compressed air,** which can be pumped back into the now **filled tanks of water,** to allow it to lose weight and return to the surface.
 
 >Fish also do this using their **swim bladder,** which they can vary the amount of gas which it holds.
+
+# References:
+
+[[Pressure and volume]] - Explains the pressure (and how the difference causes floating)
+[[Liquid Pressure]] - Explains pressure in liquids in more detail

@@ -26,3 +26,7 @@ The pressure of air trapped in a bottle can be measured using a **pressure gauge
 # What is the relationship between (pressure and volume), and temperature?
 
 The graphs of pressure against temperature and volume against temperature show that they are proportional. This means that as one is increased, the other one is increased. It can be seen in the graph that at ***273.14°C,*** pressure and volume are at zero. This temperature is called **absolute zero,** and it is the temperature where particles cease to move.
+
+# References:
+
+[[Pressure and volume]] - Pressure in more detail

@@ -30,3 +30,6 @@ This means that there are strategies that can be used to find resistance:
 *If you know the current near the battery, you can work out **current through the lamp*** 
 *If you know the p.d. across the lamp and the current, you can work out **resistance of the lamp*** 
 
+# References:
+
+[[Electric current]] and [[Circuits and potential difference]] - What can be used to calculate resistance

@@ -31,3 +31,6 @@ The equation
 Voltage is measured with a **voltmeter.** 
 
 
+# References:
+
+[[Electric current]] - What flows in circuits

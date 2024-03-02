@@ -35,3 +35,6 @@ Changes of state are **physical changes,** which are reversible, because the par
 
 The opposite of a physical change is a **chemical change**. These are different because chemical changes are **irreversible / hard to reverse,** as the *chemical structure of the object is changed.* An example is **burning wood.** 
 
+# References:
+
+[[Specific Latent Heat]] and [[Specific Heat Capacity]] - measurements of energy required to change state or heat an object respectively

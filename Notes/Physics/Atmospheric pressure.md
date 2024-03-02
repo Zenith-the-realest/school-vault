@@ -23,3 +23,7 @@ Atmospheric pressure is pressure exerted on us by the ***gases of the atmosphere
 # How does atmospheric pressure change as you go up?
 
 As you go up, atmospheric pressure **decreases;** for example, the atmospheric pressure at the top of Mount Everest is **33 kPa.** This is because as you get further away from the surface of the Earth, there are less air particles from above pushing down.
+
+# References:
+
+[[Pressure and volume]] - Pressure and its effect on volume

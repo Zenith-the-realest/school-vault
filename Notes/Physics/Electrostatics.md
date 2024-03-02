@@ -35,3 +35,7 @@ Around charged objects, there are always **electric fields.** If another charged
 ## How do you draw fields?
 
 Field lines go from **positive to negative** in the case of electric fields. The **strength of a field** is denoted by the space between the field lines.
+
+# References:
+
+[[Gravitational field and potential energy]] - Another type of field

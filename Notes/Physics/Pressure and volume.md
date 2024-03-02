@@ -29,3 +29,8 @@ The formula for pressure and volume (given that **temperature is constant**) is:
 >Saying that **"work is done"** or that you are **"doing work"** on something simply means that you are **transferring energy to it**.
 
 Applying a force to a bike pump and moving it means that you are doing work on a gas increases its temperature, because transferring energy to it means that you **give energy to the particles,** enhancing their **kinetic energy**, making them move faster and therefore *collide more with the walls of the container.* 
+
+# References:
+
+[[Atmospheric pressure]] - Pressure in the atmosphere
+[[Hydraulics]] - Use of liquid pressure

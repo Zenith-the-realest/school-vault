@@ -29,3 +29,6 @@ Current can be calculated with the equation
 
 Charge (symbol **Q**) is measured in **C**oulombs, current (symbol **I**) is measured in **A**mperes, and time (symbol lower-case t) measured in **s**econds.
 
+# References:
+
+[[Graphs of p.d. and current]] - Use of current to plot a characteristic graph

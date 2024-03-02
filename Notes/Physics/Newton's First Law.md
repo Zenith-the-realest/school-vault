@@ -22,3 +22,7 @@ Objects do not continue to move at a steady speed continuously in the real world
 ## What is equilibrium?
 
 Equilibrium in a free body diagram is when the resultant force is zero, meaning the **motion doesn't change.** 
+
+# References:
+
+[[Newton's First Law]], [[Newton's Second Law]] and [[Everyday forces and their effects]] - Newton's three laws of motion.

@@ -21,3 +21,8 @@ Acceleration = (final velocity - initial velocity) / time
 ## What is the difference between positive and negative acceleration?
 
 As *negative or positive velocity indicate a **backward or forward movement in direction,*** positive and negative acceleration **indicates speeding up or slowing down.**  
+
+# References:
+
+[[Distance, time and speed]] - Speed is the scalar counterpart of velocity
+[[Vectors and scalars]] - Acceleration is a **vector.**

@@ -85,3 +85,8 @@ Bohr's model suggested that electrons can only **move in fixed orbits** around t
 # How big are atoms?
 
 Atoms are $10\times 10^{-10}m$ in size.
+
+# References:
+
+[[Electrostatics]] - Movement of electrons through insulators, which are subatomic particles
+[[Electric current]] - Movement of electrons in a circuit
