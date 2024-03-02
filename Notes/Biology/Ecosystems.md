@@ -25,7 +25,7 @@ Organisms in a community can be divided into **three** distinct groups:
 
 1. Producers - organisms that make their own food via **photosynthesis,** i.e plants and algae.
 2. Consumers - organisms that **can't** make their own food, and eat **other organisms.** to gain energy. All animals are consumers.
-3. Decomposers - a special group of consumers that gain energy by feeding on **dead or decaying materials.** 
+3. Decomposers - a special group of consumers that gain energy by feeding on **dead or decaying materials, which also help to recycle these dead materials**
 
 ## How do these organisms transfer energy?
 
@@ -57,7 +57,6 @@ A limitation of food chains is that it only shows **organisms eating *one* food 
 
 # **References:** 
 [[Photosynthesis]] - More info on how producers create energy.
-
 [[Biotic and Abiotic factors]] - What factors affect an ecosystem, and how so.
-
 [[Competition and interdependence]] - How organisms in a **population** benefit from each other.
+[[Nitrogen and Water Cycle]] - More info on the role decomposers have in their ecosystems.
