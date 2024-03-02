@@ -28,7 +28,7 @@ Nitrogen fixation is the process of turning $N_2$ from the air into **nitrogen c
     - Lightning: it has so much **energy,** that it can cause nitrogen to **react with oxygen** to create **nitrates.** 
     - **Nitrogen fixing bacteria** in roots and soil.
 
-## What are the types of nitrogen fixing bacteria:
+## What are the types of bacteria involved in the nitrogen cycle?
 
 - Decomposers: decompose proteins and urea which become ammonia → ammonium ions.
 - Nitrifying bacteria: turn **ammonium ions → nitrates.** 
