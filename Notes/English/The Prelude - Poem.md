@@ -4,11 +4,9 @@ aliases:
   - The Prelude - Poem
 tags:
   - English
+  - Poetry - Power and Conflict
 ---
 202401082001
-Subject: #English
-
-
 
 # The Prelude - Poem
 
