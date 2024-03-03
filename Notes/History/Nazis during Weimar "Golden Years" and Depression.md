@@ -73,3 +73,5 @@ The years 1924-9 were perceived as the **Golden Years** of the Weimar Republic. 
 > Overall, the Nazis used a mixture of propaganda, effective policies and economic pushes to gain support.
 
 # References:
+[[The Nazis during the Weimar 'Golden Years and the Depression]] - Shows how the Nazis used their increasing democratic power and consolidated it.
+
