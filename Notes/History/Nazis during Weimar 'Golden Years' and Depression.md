@@ -1,7 +1,6 @@
 ---
-id: 1709465780-NXEU
+id: Nazis during Weimar 'Golden Years' and Depression
 aliases:
-  - "- Nazis during Weimar 'Golden Years' and Depression"
   - Nazis during Weimar 'Golden Years' and Depression
 tags:
   - History
