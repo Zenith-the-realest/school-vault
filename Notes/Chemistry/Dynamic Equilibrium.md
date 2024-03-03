@@ -35,6 +35,13 @@ Although the **concentrations** are equal at equilibrium, it does **not** mean t
 
 The position of equilibrium depends on **conditions, as well as the reaction itself.** 
 
+Conditions that affect position of equilibrium are:
+
+1. Temperature
+2. Pressure (only affects equilibria (plural equilibrium) of **gases**) 
+3. Concentrations
+
+
 # References:
 
 [[Le Chatelier's Principle]] - Describes how equilibrium changes with changing conditions.
