@@ -4,6 +4,7 @@ aliases:
   - Remains - Context
 tags:
   - English
+  - Poetry - Power and Conflict
 ---
 202401112155
 

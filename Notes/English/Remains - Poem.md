@@ -4,10 +4,9 @@ aliases:
   - Remains - Poem
 tags:
   - English
+  - Poetry - Power and Conflict
 ---
 202401131705
-Subject: #English
-
 
 # Remains - Poem
 

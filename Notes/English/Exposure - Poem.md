@@ -4,10 +4,9 @@ aliases:
   - Exposure - Poem
 tags:
   - English
+  - Poetry - Power and Conflict
 ---
 202401132059
-
-
 
 # Exposure - Poem
 

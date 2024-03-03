@@ -4,10 +4,9 @@ aliases:
   - Romanticism
 tags:
   - English
+  - Poetry - Power and Conflict
 ---
 202401102055
-Subject: #English
-
 
 # Romanticism
 

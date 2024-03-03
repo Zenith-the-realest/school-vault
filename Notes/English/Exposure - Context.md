@@ -4,10 +4,9 @@ aliases:
   - Exposure - Context
 tags:
   - English
+  - Poetry - Power and Conflict
 ---
 202401132017
-
-
 
 # Exposure - Context
 

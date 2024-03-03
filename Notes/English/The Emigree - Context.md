@@ -2,9 +2,9 @@
 id: The Emigree - Context
 aliases:
   - The Emigree - Context
-  - The Emigree
 tags:
   - English
+  - Poetry - Power and Conflict
 ---
 202401191821
 # The Emigree - Context

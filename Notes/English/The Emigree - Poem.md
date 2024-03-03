@@ -4,8 +4,10 @@ aliases:
   - The Emigree - Poem
 tags:
   - English
+  - Poetry - Power and Conflict
 ---
 202401191826
+
 # The Emigree - Poem
 
 ## What is an "emigree"?

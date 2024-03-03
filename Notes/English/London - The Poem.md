@@ -4,10 +4,9 @@ aliases:
   - London - The Poem
 tags:
   - English
+  - Poetry - Power and Conflict
 ---
 202401061701
-
-
 
 # London - The Poem
 

@@ -4,10 +4,9 @@ aliases:
   - London - Context
 tags:
   - English
+  - Poetry - Power and Conflict
 ---
-
 202401061651
-
 
 # London - Context
 

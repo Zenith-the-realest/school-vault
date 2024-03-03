@@ -4,12 +4,10 @@ aliases:
   - The Prelude - Context
 tags:
   - English
+  - Poetry - Power and Conflict
 ---
 
 202401072104
-Subject: #English
-
-
 # The Prelude - Context
 
 # Who was William Wordsworth?
