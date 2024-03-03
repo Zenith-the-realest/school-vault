@@ -1,18 +1,18 @@
 ---
 id: Nazi consolidation of power, 1933-4
 aliases:
-  - Nazi consolidation of power,1933-4
+  - Nazi consolidation of power, 1933-4
 tags:
   - History
   - NaziGermany
 ---
 
-# Nazi consolidation of power,1933-4
+# Nazi consolidation of power, 1933-4
 
 # How did Hitler become chancellor?
 
 - Nazi party increased share of votes in **July 1932 elections,** winning *230 seats.*
-- However, it seemed to be getting worse for the Nazis - in **November 1932 elections,** they lost *38 seats.* 
+	- However, it seemed to be getting worse for the Nazis - in **November 1932 elections,** they lost *38 seats.* 
 - In **December 1932,** Hindenburg chose *von Schleicher* to be chancellor, but he was forced to resign within a month. This meant that Hindenburg effectively ruled **with the support of army leaders and industrialists.** 
 - Hitler was able to strike a deal with a politician known as **Franz von Papen,** in the case that von Papen would be made **vice-chancellor** if he could persuade Hindenburg to make Hitler **chancellor.** 
 - Hindenburg agreed due to Hitler's **popularity,** and both von Papen and Hindenburg thought they could control Hitler. Hitler was made **chancellor of Germany on *30 January 1932.*** 
@@ -30,6 +30,16 @@ On **27 February 1933,** the **Reichstag caught fire.** A Dutch communist known 
 
 > The Reichstag Fire was used to remove Communists from the electorate.
 
+# What was the **Enabling Act?** 
+
+- The Enabling Act was passed on **24 March 1933,** and allowed Hitler to pass laws for the next four years **without the support of the Reichstag.** This made him a **legal dictator.** 
+
+Using the Enabling Act, he:
+
+- Banned trade unions, making all German workers become part of the **German Labour Front (DAF)** 
+- Outlawed all other political parties, making Germany a **one-party state.** 
+
+> Hitler used the Enabling Act to pass laws without the support of the Reichstag.
 # What was the **Night of the Long Knives?** 
 
 Even though the SA had **helped Hitler come to power,** Hitler saw them as a potential threat. He believed **Ernst Röhm,** the leader of the SA, was becoming *too powerful.* 
