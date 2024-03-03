@@ -43,5 +43,4 @@ Half equation for aluminium: $Al^{3+} + 3e^- \rightarrow Al$
 
 The full equation for this is: $$2Al_2O_3\rightarrow 4Al_{(l)}+2O_{2\space (l)}$$
 # **References:** 
-[[Separation of Metals from Metal Oxides]]
 [[Electrolysis]]

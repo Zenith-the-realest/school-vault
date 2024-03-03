@@ -31,3 +31,9 @@ The SS was expanded under **Himmler** in the 1930s, completely loyal to Hitler, 
 As a result, most Germans accepted the new regime - either due to **fear** or **agreement** with the Nazis.
 
 > The Nazis used terror to get the German people to conform.
+
+# Who was the **Minister of Propaganda,** and what did he do?
+
+- The Minister of Propaganda was **Josef Goebbels,** and promoted many Nazi ideas.
+    - One of these was the perpetuation of the **"Hitler myth,"** which portrayed Hitler as the saviour of Germany.
+- There were also other events, such as the **Nu** 
