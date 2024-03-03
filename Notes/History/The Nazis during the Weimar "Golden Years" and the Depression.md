@@ -69,3 +69,4 @@ The years 1924-9 were perceived as the **Golden Years** of the Weimar Republic. 
 - **Generalised slogans** made it hard for criticism of their policies.
 - SA gave promise of law and order, as there was **violence on the streets which scared people.** 
 
+> Overall, the Nazis used a mixture of propaganda, effective policies and economic pushes to gain support.
