@@ -1,12 +1,11 @@
 ---
-id: The Nazis during the Weimar "Golden Years" and the Depression
+id: The Nazis during the Weimar 'Golden Years' and the Depression
 aliases:
-  - The Nazis during the Weimar "Golden Years" and the Depression"
-tags:
-  - History
+  - The Nazis during the Weimar 'Golden Years' and the Depression
+tags: []
 ---
 
-# The Nazis during the Weimar "Golden Years" and the Depression"
+# The Nazis during the Weimar 'Golden Years' and the Depression
 
 ## How were the years 1924-9 perceived?
 
@@ -70,3 +69,7 @@ The years 1924-9 were perceived as the **Golden Years** of the Weimar Republic. 
 - SA gave promise of law and order, as there was **violence on the streets which scared people.** 
 
 > Overall, the Nazis used a mixture of propaganda, effective policies and economic pushes to gain support.
+
+# References:
+
+
