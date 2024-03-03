@@ -1,11 +1,14 @@
 ---
-id: The Nazis during the Weimar 'Golden Years' and the Depression
+id: The Nazis during the Weimar "Golden Years" and the Depression
 aliases:
-  - The Nazis during the Weimar 'Golden Years' and the Depression
-tags: []
+  - The Nazis during the Weimar "Golden Years" and the Depression
+tags:
+  - History
+  - NaziGermany
 ---
+202403031122
 
-# The Nazis during the Weimar 'Golden Years' and the Depression
+# The Nazis during the Weimar "Golden Years" and the Depression
 
 ## How were the years 1924-9 perceived?
 
@@ -71,5 +74,5 @@ The years 1924-9 were perceived as the **Golden Years** of the Weimar Republic. 
 > Overall, the Nazis used a mixture of propaganda, effective policies and economic pushes to gain support.
 
 # References:
-
+[[Nazi consolidation of power, 1933-4|Nazi consolidation of power, 1933-4]] - Shows how the Nazis used their increasing democratic power and consolidated it.
 
