@@ -24,7 +24,7 @@ followed with emotive vocabulary such as *"wearied","low drooping","confuse","wo
 However, each stanza ends with an anti-climax:
 >*But nothing happens.* 
 
-This structure is apparent in each verse. It may be that Owen intends for the reader to *emphasise with what thte soldier's felt:* everything is tense and building to a climax, but ending with nothing.
+This structure is apparent in each verse. It may be that Owen intends for the reader to *emphasise with what the soldier's felt:* everything is tense and building to a climax, but ending with nothing.
 This reflects the emotional roller coaster the soldiers went through everyday, exhausting them.
 
 ## Rhyme scheme:

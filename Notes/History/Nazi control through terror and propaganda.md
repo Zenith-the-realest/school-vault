@@ -14,7 +14,7 @@ tags:
 The Enabling Act meant the government could **read people's post, listen to conversations, and search homes *without notice.*** Germany became a **police state,** as the police would supervise and **restrict** activities of the Germans.
 
 - Top jobs were given to the **high-ranking Nazis, and the** non-Nazi supporters were **sacked.** 
-- In 134, the **Law for the Reconstruction fo the Reich was passed -** this law allowed Nazis total power over local government.
+- In 1934, the **Law for the Reconstruction for the Reich was passed -** this law allowed Nazis total power over local government.
     - This included the legal system, which made all judges Nazis, and **removed trial by jury.** 
 - In march 1934, the **SD (Nazi intelligence service)** was set up under **Reinhard Heydrich**, that aimed to ***spy on all Germans.***
 
@@ -36,4 +36,4 @@ As a result, most Germans accepted the new regime - either due to **fear** or **
 
 - The Minister of Propaganda was **Josef Goebbels,** and promoted many Nazi ideas.
     - One of these was the perpetuation of the **"Hitler myth,"** which portrayed Hitler as the saviour of Germany.
-- There were also other events, such as the **Nu** 
+- There were also other events, such as the **Nuremberg Rallies,** which showcased a *dedication to the cause.*
