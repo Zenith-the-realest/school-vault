@@ -68,8 +68,3 @@ However, there is a problem: In order to assure a high rate of reaction, we need
 ## Pressure:
 
 In order to have a high % yield of ammonia, we want a higher pressure (because there are fewer molecules of product than reactant). However, there are also issues of cost and safety, as high pressures can be dangerous. This is why a pressure of 200 atm is chosen.
-
-# References:
-
-[[Dynamic Equilibrium]] - The Haber process features a reversible reaction, which can be at dynamic equilibrium (isn't in this case)
-[[Le Chatelier's Principle]] - Affects conditions of the haber Process

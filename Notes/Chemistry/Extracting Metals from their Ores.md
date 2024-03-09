@@ -34,4 +34,4 @@ Here, the copper is displaced by the carbon. The **position of the metal in the 
 
 # References:
 
-[[Extracting Metals with Electrolysis]]
+[[Extracting Metals with Electrolysis|Extracting Metals with Electrolysis]]
