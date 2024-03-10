@@ -25,9 +25,9 @@ However, they are not becoming better, but rather the virus is doing more damage
 
 > Originally, this used to be the final stage, but after the introduction of **antiretroviral drugs,** which stop the **virus replicaating,** if someone uses these drugs early in their disease, they can **live normally.** 
 
-# Tobacco mosaic disease:
+# Tobacco mosaic virus:
 
-This virus only affects **plants,** such as **tobacco and tomato plants.** This **discolours patches of the leaves,** which is tobacco-coloured, hence **tobacco** mosaic disease. However, this discolouring is not just cosmetic: this **prevents photosynthesis on the discoloured areas,** meaning the plant won't be able to produce **sugars for growth.** 
+This virus only affects **plants,** such as **tobacco and tomato plants, and spreads via contact as opposed to insects** This **discolours patches of the leaves,** which is tobacco-coloured, hence **tobacco** mosaic disease. However, this discolouring is not just cosmetic: this **prevents photosynthesis on the discoloured areas,** meaning the plant won't be able to produce **sugars for growth.** 
 
 # References:
 [[Photosynthesis]] - The process by which plants grow, and **TMV** stunts this.
