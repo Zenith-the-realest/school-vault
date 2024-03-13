@@ -4,7 +4,7 @@ aliases:
   - Mutations
 tags:
   - Biology
-  - B6
+  - B5
 ---
 202403101242
 

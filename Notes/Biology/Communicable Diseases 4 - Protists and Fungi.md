@@ -44,3 +44,6 @@ Symptoms of malaria include **fever and headaches,** which go away and come back
 
 We can also stop them feeding on us, via using **mosquito nets** or **repellent.** 
 
+# References:
+[[Competition and interdependence]] - Parasitic (along with other) relationships described in higher detail.
+
