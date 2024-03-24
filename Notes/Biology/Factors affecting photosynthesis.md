@@ -38,4 +38,4 @@ Carbon dioxide is one of the **reactants of photosynthesis:** this means the amo
 Because photosynthesis is a series of **enzyme-controlled reactions,** the temperature is a factor that must be kept in mind when discussing the rate. It follows the same trend as regular enzyme-controlled reactions: As temperature increases up to a certain point, rate of photosynthesis increases until it has reached its **optimum temperature.** However, once it exceeds that point, the enzymes begin to **denature, and the reaction stops.** 
 
 # **References:** 
-[[Enzymes]]and [[Enzyme reactions]]
+[[Enzymes]] and [[Enzyme reactions]]
