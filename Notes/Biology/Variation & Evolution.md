@@ -28,7 +28,7 @@ However, most mutations do **not have an effect on proteins, therefore not affec
 ## What do beneficial mutations do?
 
 These make them more survival, and therefore more **able to reproduce,** which passes on their characteristics. **Darwin coined this** *natural selection,* which is what he discovered after noticing that the useful traits were passed on the most.
-     However, Darwin's most important idea was **evolution,** which was the idea that the  inheritance of certain characteristics, over multiple generations could lead to a **change in the whole species.** 
+However, Darwin's most important idea was **evolution,** which was the idea that the  inheritance of certain characteristics, over multiple generations could lead to a **change in the whole species.** 
 
 # References:
 [[Genetic Engineering]] - Describes how mutations occur

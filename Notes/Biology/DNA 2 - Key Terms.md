@@ -31,7 +31,7 @@ The more common definition for this course is **the two alleles present for a pa
 
 ## Phenotype:
 
-Phenotype is the **characteristic** expressed as a result of your **genotype.** 
+Phenotype is the **characteristic** expressed as a result of your **genotype -** a dominant allele will always be the **expressed phenotype.**
 
 # References:
 

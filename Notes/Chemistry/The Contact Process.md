@@ -56,3 +56,5 @@ No effect on percentage yield, but increases rate of reaction.
 # References:
 
 [[The Haber Process]] - Another industrial process to make another useful chemical.
+[[Dynamic Equilibrium]] - Second stage's conditions change the equilibrium position.
+[[Le Chatelier's Principle]] - Second stage conditions rely on this.
