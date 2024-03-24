@@ -57,3 +57,6 @@ It can cause **pain when urinating,** or **thick yellow or green discharge from 
 # References:
 
 [[Antibiotic Resistance]] - How these bacteria develop resistance to antibiotics.
+[[Communicable Diseases 1 - Intro]]
+[[Communicable Diseases 2 - Viruses]]
+[[Communicable Diseases 4 - Protists and Fungi]]

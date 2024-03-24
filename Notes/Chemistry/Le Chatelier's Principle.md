@@ -2,7 +2,9 @@
 id: Le Chatelier's Principle
 aliases:
   - Le Chatelier's Principle
-tags: []
+tags:
+  - Chemistry
+  - C5
 ---
 
 # Le Chatelier's Principle

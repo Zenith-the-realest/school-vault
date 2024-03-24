@@ -31,3 +31,6 @@ This virus only affects **plants,** such as **tobacco and tomato plants, and spr
 
 # References:
 [[Photosynthesis]] - The process by which plants grow, and **TMV** stunts this.
+[[Communicable Diseases 1 - Intro]]
+[[Communicable Diseases 3 - Bacteria]]
+[[Communicable Diseases 4 - Protists and Fungi]]

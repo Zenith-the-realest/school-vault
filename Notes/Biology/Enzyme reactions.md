@@ -2,7 +2,9 @@
 id: Enzyme reactions
 aliases:
   - Enzyme reactions
-tags: []
+tags:
+  - Biology
+  - B1
 ---
 202402251111
 

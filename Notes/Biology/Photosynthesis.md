@@ -14,7 +14,7 @@ tags:
 
 Photosynthesis is when plants take in **carbon dioxide and water,** and the aforementioned substances react to form **glucose and oxygen.** Some oxygen is used in respiration, but the rest is released into the environment - the plant uses the glucose as its food.
 
-The equation for photosynthesis is $$6CO_2 + ^H_2O \rightarrow C_6H_12_O_6 + 6O_2$$
+The equation for photosynthesis is $$6CO_2 + 6H_2O \rightarrow C_6H_{12}O_2+6O_2$$
 
 ## Where does photosynthesis occur?
 

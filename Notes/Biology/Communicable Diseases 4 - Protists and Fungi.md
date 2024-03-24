@@ -46,4 +46,4 @@ We can also stop them feeding on us, via using **mosquito nets** or **repellent.
 
 # References:
 [[Competition and interdependence]] - Parasitic (along with other) relationships described in higher detail.
-
+[[Communicable Diseases 1 - Intro]]
