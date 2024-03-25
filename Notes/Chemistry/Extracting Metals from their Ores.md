@@ -26,7 +26,7 @@ Metals can be **extracted using *carbon reduction.***
 When an ore is **reduced,** it *loses oxygen.* An example equation of a carbon displacement is $$2CO + C \rightarrow 2Cu + CO_2$$
 
 Here, the copper is displaced by the carbon. The **position of the metal in the reactivity series dictates how easy it is to reduce.** See the reactivity series here:
-![ReactivitySeries.png|center|250](Images/ReactivitySeries.png)
+![ReactivitySeries.png|center|250](Files/ReactivitySeries.png)
 
 - Metals higher than carbon need to be extracted with **electrolysis, which is *expensive.***
 - Metals below carbon can be extracted using the above reduction (e.g iron oxide)

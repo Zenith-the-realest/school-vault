@@ -4,6 +4,7 @@ aliases:
   - Factors affecting photosynthesis
 tags:
   - Biology
+  - B1
 ---
 
 202402251045

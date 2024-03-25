@@ -29,7 +29,7 @@ Electrolysis can also be used to **purify copper.** Copper can be reduced with c
 
 - This is an issue as copper is used as a conductor, and impure copper doesn't conduct very well.
 
-![PurifyingCopper.png](Images/PurifyingCopper.png)
+![PurifyingCopper.png](Files/PurifyingCopper.png)
 # What other methods of extracting metals are there?
 
 There are two other methods of extraction, which are **biological:**

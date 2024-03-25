@@ -2,7 +2,9 @@
 id: Enzymes
 aliases:
   - Enzymes
-tags: []
+tags:
+  - Biology
+  - B1
 ---
 202402251111
 

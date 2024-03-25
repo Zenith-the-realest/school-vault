@@ -27,7 +27,7 @@ The materials are recycled by the **biotic (living) and abiotic (non-living) fac
 ## How much carbon is there in the world?
 
 There is a **fixed amount of carbon** in the world, but it is constantly recycled. It is very important as it makes up lots of living organisms. The carbon cycle is as such:
-![CarbonCycle.png|centre|450](Images/CarbonCycle.png)
+![CarbonCycle.png|centre|450](Files/CarbonCycle.png)
 
 ## What to understand from the carbon cycle:
 

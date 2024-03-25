@@ -22,8 +22,13 @@ If you place a thermistor in cold water, initially, the **resistance will be hig
 
 # What is an **LDR?** 
 
-An LDR is a resistor whose resistance changes with **light intensity,** and also come in different shapes and sizes
+An LDR is a resistor whose resistance changes with **light intensity,** and also come in different shapes and sizes.
 
 ## How does the resistance of an LDR **change with light intensity?** 
 
 As light intensity **increases**, the resistance of an LDR ***decreases.*** 
+
+# References:
+
+[[Series and parallel circuits]] - how these circuits work: LDRs and thermistors feature in parallel sensing circuits.
+[[Sensing circuits]] - LDRs and thermistors feature in these types of circuits.

@@ -1,7 +1,6 @@
 ---
 id: Turning Forces
-aliases:
-  - Turning forces
+aliases: []
 tags:
   - Physics
   - P2

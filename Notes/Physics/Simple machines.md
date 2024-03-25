@@ -31,3 +31,7 @@ Gears are like levers, but instead they **rotate.** If a small cog rotates with 
 
 - You can find the **mechanical advantage** by finding the ratio of the diameters of the cogs.
 
+
+# References:
+
+[[Turning Forces]] - these are one of the forces that levers can produce.

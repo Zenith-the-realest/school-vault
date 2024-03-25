@@ -84,8 +84,7 @@ The sinister sound created by this sibilance could mean:
 This caesura used shows the division between the soldiers **homes**, and the **present war.** 
 
 ## The ending:
-
 The ending is very important; having established before that the soldiers perceive themselves as sacrifices to save the public, the contrasting **"but nothing happens"** ends the poem. Structurally, it ends as it began, showing its cyclical structure and highlighting how futile war is in the end.
 # **References**
 [[Exposure - Context]]
-[[Charge Of The Light Brigade - Poem]] and [[Bayonet Charge - Poem]]- War Poetry
+[[Charge Of The Light Brigade - Poem]] and [[Bayonet Charge - Poem]] - War Poetry
