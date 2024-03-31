@@ -44,3 +44,5 @@ Disposal: Plastic bags are **non-biodegradable,** and **harm landfills,** but pa
 
 - Complexity: assessing every production step is difficult, specifically **quantifying harm.** 
 - Manipulation: assessments can be manipulated to **favor particular companies,** for advertising.
+
+
