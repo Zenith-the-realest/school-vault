@@ -12,8 +12,7 @@ tags:
 
 # What is the atmosphere?
 
-The atmosphere is a *single layer of gas* that **protects the Earth.** Its thickness is ver small compared to the diameter of the Earth. It covers the Earth to a height of **700km**.
-
+The atmosphere is a *single layer of gas* that **protects the Earth.** Its thickness is very small compared to the diameter of the Earth. It covers the Earth to a height of **700km**.
 ## What is atmospheric pressure?
 
 Atmospheric pressure is pressure exerted on us by the ***gases of the atmosphere.*** On the Earth, itis **101,325 Pa,** or approximately **100,000 Pa / 100,000 kPa.**
