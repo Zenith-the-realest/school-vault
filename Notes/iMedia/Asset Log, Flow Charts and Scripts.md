@@ -1,3 +1,10 @@
+---
+id: Asset Log, Flow Charts and Scripts
+aliases:
+  - Asset Log, Flow Charts and Scripts
+tags:
+  - iMedia
+---
 
 **1. Asset Log:**
 

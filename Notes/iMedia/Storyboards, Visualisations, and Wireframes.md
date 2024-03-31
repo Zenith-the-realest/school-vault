@@ -1,3 +1,11 @@
+---
+id: Storyboards, Visualisations and Wireframes
+aliases:
+  - Storyboards, Visualisations and Wireframes
+tags:
+  - iMedia
+---
+
 **1. Storyboard:**
 
 - **Definition:** Visual scene description used in animation, film, TV.

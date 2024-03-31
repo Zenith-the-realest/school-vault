@@ -12,7 +12,6 @@ tags:
 # What is variation?
 
 Variation is the **differences in individuals.** This is due to different **phenotypes.** These different phenotypes are due to different **genes,** which code for specific proteins. A person's genome is their entire genetic makeup. This means that each person's **genome is unique, other than *identical twins.*** 
-
 ## What are factors affecting variation?
 
 Although identical twins might have identical genomes, one might be taller than the other due to differences in their **environment.** 

@@ -6,9 +6,3 @@ tags:
   - Chemistry
   - C6
 ---
-
-
-This is not funny
-I have a Macbeth test tomorrow
-
-I don't wanna do this.

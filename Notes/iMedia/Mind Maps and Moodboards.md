@@ -1,3 +1,11 @@
+---
+id: Mind Maps and Moodboards
+aliases:
+  - Mind Maps and Moodboards
+tags:
+  - iMedia
+---
+
 ### Mind Maps Notes
 
 - **Definition**: A diagram used to organize information & ideas around a central topic, using color, images, and text.

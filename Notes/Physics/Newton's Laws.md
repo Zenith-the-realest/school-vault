@@ -14,7 +14,7 @@ tags:
 Pairs of forces arise when objects interact in pairs:
 
 - Each force acts on a *different object.* 
-- The forces are the *same size and type (e.g **gravitational**)* 
+- The forces are the *same size and type (e.g. **gravitational**)* 
 - They act in *opposite directions.* 
 
 The above is **Newton's Third Law,** also written as:
@@ -37,3 +37,4 @@ Forces are vector quantities, so they are represented using **force arrows.**
 # What are contact forces?
 
 Contact forces, as opposed to non-contact forces, are forces that interact with contact. An example of this can be standing on a diving board - the board **pushes up on you.**
+	
